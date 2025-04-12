@@ -1,0 +1,1001 @@
+cliente_id,idade,sexo,estado_civil,renda_mensal,cidade,estado,frequencia_compra_mensal,ticket_medio,categoria_preferida,tempo_cliente,utiliza_app,participa_programa_fidelidade,ultima_compra_dias,forma_pagamento_preferida,canal_compra_preferido
+1,56,Outro,Solteiro,4607.56,Rio de Janeiro,SP,4,361.67,Roupas,42,Não,Sim,84,Pix,App
+2,69,Outro,Casado,1246.62,Salvador,RJ,2,273.21,Eletrônicos,23,Não,Não,17,Pix,Loja Física
+3,46,Outro,Casado,5435.98,São Paulo,PR,5,299.89,Cosméticos,52,Sim,Não,77,Boleto,Loja Física
+4,32,M,Divorciado,7351.09,Salvador,BA,6,215.79,Alimentos,52,Sim,Não,14,Débito,App
+5,60,Outro,Casado,7359.58,São Paulo,PR,6,269.51,Roupas,4,Não,Sim,25,Crédito,Loja Física
+6,25,M,Casado,5469.79,São Paulo,BA,3,303.75,Cosméticos,38,Sim,Não,52,Pix,App
+7,38,F,Divorciado,2833.18,Curitiba,BA,4,192.15,Cosméticos,4,Sim,Não,43,Crédito,Site
+8,56,Outro,Casado,1398.2,São Paulo,PR,3,242.25,Cosméticos,5,Sim,Sim,31,Pix,App
+9,36,M,Casado,1199.59,São Paulo,PR,2,244.16,Roupas,41,Sim,Não,27,Débito,App
+10,40,M,Casado,1000.0,Belo Horizonte,RJ,5,332.64,Alimentos,44,Não,Sim,38,Crédito,Site
+11,28,Outro,Casado,5387.71,Salvador,PR,4,143.4,Cosméticos,23,Sim,Sim,31,Dinheiro,App
+12,28,F,Divorciado,3794.33,Belo Horizonte,RJ,2,244.85,Roupas,40,Sim,Sim,76,Débito,App
+13,41,F,Casado,5818.43,São Paulo,RJ,0,441.2,Eletrônicos,53,Sim,Sim,78,Crédito,Site
+14,53,F,Casado,6856.06,Curitiba,RJ,0,366.41,Roupas,37,Não,Sim,17,Pix,Loja Física
+15,57,M,Divorciado,4199.81,Belo Horizonte,BA,5,384.92,Roupas,11,Não,Sim,69,Pix,Loja Física
+16,41,M,Solteiro,4291.92,Belo Horizonte,BA,6,252.44,Roupas,55,Sim,Sim,10,Débito,App
+17,20,M,Divorciado,3071.36,Rio de Janeiro,PR,1,282.1,Cosméticos,11,Sim,Não,31,Débito,Site
+18,39,M,Solteiro,3307.83,São Paulo,BA,2,350.22,Roupas,13,Sim,Não,19,Pix,Loja Física
+19,19,F,Divorciado,5456.94,Curitiba,PR,5,406.03,Eletrônicos,14,Sim,Não,39,Crédito,Loja Física
+20,41,Outro,Divorciado,3651.25,Belo Horizonte,BA,4,54.84,Cosméticos,8,Sim,Sim,7,Dinheiro,Site
+21,61,M,Casado,3361.98,Belo Horizonte,SP,3,118.46,Eletrônicos,25,Sim,Sim,34,Boleto,Loja Física
+22,47,M,Solteiro,3963.37,Curitiba,SP,2,380.94,Utilidades,18,Sim,Sim,68,Débito,Site
+23,55,F,Casado,5772.66,São Paulo,PR,0,222.31,Roupas,51,Sim,Sim,77,Pix,App
+24,19,Outro,Solteiro,2614.68,Rio de Janeiro,BA,4,182.83,Cosméticos,44,Sim,Não,20,Crédito,Site
+25,38,Outro,Divorciado,3866.94,Belo Horizonte,BA,5,124.58,Cosméticos,44,Não,Não,23,Débito,Loja Física
+26,50,F,Divorciado,4490.56,Rio de Janeiro,RJ,2,194.5,Roupas,18,Sim,Não,16,Crédito,Loja Física
+27,29,F,Solteiro,6320.44,Salvador,MG,3,109.76,Alimentos,10,Sim,Não,17,Débito,Loja Física
+28,39,Outro,Casado,3521.41,São Paulo,PR,7,459.11,Alimentos,7,Não,Sim,11,Pix,Loja Física
+29,61,M,Casado,2564.35,Salvador,MG,5,247.76,Eletrônicos,50,Sim,Sim,15,Crédito,Site
+30,42,Outro,Casado,3031.28,Salvador,MG,3,244.2,Roupas,44,Não,Não,3,Pix,Site
+31,66,F,Casado,6106.11,Salvador,PR,1,308.81,Roupas,14,Sim,Sim,88,Crédito,Loja Física
+32,44,M,Divorciado,8066.61,São Paulo,BA,3,346.23,Utilidades,15,Sim,Sim,33,Débito,Loja Física
+33,59,M,Divorciado,1372.48,São Paulo,PR,4,344.59,Alimentos,16,Não,Sim,45,Boleto,Loja Física
+34,45,F,Divorciado,1809.4,Curitiba,MG,1,357.36,Alimentos,2,Sim,Sim,74,Boleto,App
+35,33,F,Divorciado,3662.41,Rio de Janeiro,BA,3,186.92,Roupas,30,Não,Sim,76,Dinheiro,Site
+36,32,F,Divorciado,4221.91,Rio de Janeiro,SP,3,220.21,Eletrônicos,30,Sim,Não,30,Dinheiro,App
+37,64,Outro,Casado,5573.94,Curitiba,PR,4,326.9,Roupas,18,Sim,Não,24,Pix,App
+38,68,Outro,Casado,2217.73,Curitiba,PR,1,197.26,Eletrônicos,31,Sim,Sim,73,Crédito,Site
+39,61,M,Casado,1873.78,Salvador,BA,2,249.49,Alimentos,44,Sim,Sim,23,Dinheiro,App
+40,69,F,Casado,4276.17,Curitiba,SP,3,289.88,Utilidades,48,Sim,Não,64,Débito,Loja Física
+41,20,M,Divorciado,3483.2,Belo Horizonte,SP,2,328.52,Cosméticos,13,Sim,Sim,24,Boleto,Site
+42,54,M,Divorciado,5853.44,Rio de Janeiro,BA,1,72.23,Alimentos,20,Sim,Sim,27,Crédito,Loja Física
+43,68,M,Divorciado,4974.72,Curitiba,RJ,1,321.47,Eletrônicos,49,Sim,Sim,35,Boleto,App
+44,24,M,Solteiro,5110.76,Belo Horizonte,PR,3,226.63,Roupas,50,Não,Sim,81,Crédito,Loja Física
+45,38,F,Casado,3791.04,Belo Horizonte,PR,0,320.75,Alimentos,35,Sim,Não,5,Dinheiro,App
+46,26,M,Casado,8711.16,Belo Horizonte,MG,3,327.69,Utilidades,23,Não,Não,65,Dinheiro,Loja Física
+47,56,F,Divorciado,2324.5,Belo Horizonte,BA,1,410.79,Eletrônicos,42,Sim,Sim,66,Pix,App
+48,35,F,Casado,5221.62,Salvador,MG,1,385.35,Roupas,33,Sim,Sim,71,Crédito,Loja Física
+49,21,Outro,Casado,1460.62,Belo Horizonte,MG,7,384.66,Cosméticos,38,Não,Sim,47,Débito,Site
+50,42,F,Divorciado,1853.06,Salvador,SP,3,394.37,Eletrônicos,35,Sim,Sim,82,Dinheiro,Site
+51,31,Outro,Solteiro,2785.31,Salvador,PR,2,279.14,Roupas,51,Sim,Não,69,Pix,Loja Física
+52,67,F,Solteiro,7258.65,Belo Horizonte,MG,4,253.22,Cosméticos,36,Sim,Não,77,Dinheiro,Site
+53,26,F,Solteiro,4527.79,Rio de Janeiro,SP,4,337.28,Roupas,20,Sim,Não,66,Boleto,App
+54,43,F,Divorciado,2819.04,Belo Horizonte,BA,0,323.21,Cosméticos,55,Sim,Não,47,Dinheiro,Loja Física
+55,19,Outro,Casado,4748.87,Belo Horizonte,MG,3,219.09,Cosméticos,3,Não,Não,64,Crédito,App
+56,37,Outro,Divorciado,4070.3,Belo Horizonte,PR,3,290.48,Cosméticos,8,Sim,Não,43,Pix,Site
+57,45,M,Divorciado,3016.05,Rio de Janeiro,MG,7,246.49,Roupas,40,Não,Sim,62,Crédito,App
+58,64,Outro,Casado,1206.74,São Paulo,BA,3,164.61,Cosméticos,59,Sim,Sim,45,Débito,Loja Física
+59,24,Outro,Solteiro,6877.08,São Paulo,MG,2,379.05,Eletrônicos,32,Sim,Não,18,Débito,Site
+60,61,Outro,Solteiro,4419.64,Salvador,PR,4,255.52,Utilidades,29,Sim,Sim,63,Dinheiro,App
+61,25,Outro,Divorciado,8347.48,Salvador,SP,2,454.87,Utilidades,7,Não,Não,82,Pix,Site
+62,64,M,Solteiro,5880.64,Rio de Janeiro,PR,2,87.45,Cosméticos,2,Não,Não,72,Pix,Site
+63,52,Outro,Divorciado,5102.64,Curitiba,SP,3,194.32,Utilidades,21,Sim,Não,70,Pix,Loja Física
+64,31,F,Divorciado,3129.59,São Paulo,RJ,0,253.26,Utilidades,6,Sim,Sim,49,Pix,Loja Física
+65,34,F,Casado,1809.31,Salvador,PR,0,363.74,Cosméticos,28,Sim,Não,62,Dinheiro,Site
+66,53,Outro,Casado,3564.54,São Paulo,PR,3,289.95,Cosméticos,48,Sim,Sim,40,Crédito,App
+67,67,Outro,Casado,1751.41,Rio de Janeiro,BA,4,281.05,Eletrônicos,42,Sim,Não,6,Dinheiro,Site
+68,57,F,Divorciado,5300.38,Rio de Janeiro,MG,6,137.27,Alimentos,36,Não,Sim,8,Crédito,Loja Física
+69,21,F,Casado,7265.3,Curitiba,SP,4,134.31,Roupas,32,Sim,Não,3,Boleto,Site
+70,19,M,Solteiro,3478.18,Curitiba,SP,2,282.25,Cosméticos,45,Não,Não,88,Boleto,Loja Física
+71,23,F,Solteiro,5888.98,Rio de Janeiro,BA,2,113.59,Cosméticos,42,Sim,Sim,48,Crédito,Site
+72,59,F,Divorciado,2621.54,Salvador,BA,8,196.81,Utilidades,53,Sim,Sim,75,Dinheiro,App
+73,21,Outro,Divorciado,3395.07,São Paulo,MG,4,300.09,Eletrônicos,46,Sim,Não,5,Débito,App
+74,46,F,Casado,2370.07,Belo Horizonte,MG,3,151.77,Utilidades,9,Não,Sim,81,Dinheiro,Loja Física
+75,35,M,Divorciado,1000.0,Curitiba,PR,1,410.54,Cosméticos,11,Não,Não,20,Débito,App
+76,43,F,Divorciado,3926.93,Belo Horizonte,RJ,2,372.39,Cosméticos,23,Sim,Sim,14,Dinheiro,Site
+77,61,Outro,Solteiro,4256.9,Salvador,MG,1,92.86,Utilidades,50,Sim,Não,66,Pix,App
+78,51,Outro,Solteiro,6131.72,Curitiba,BA,3,156.76,Cosméticos,11,Sim,Não,65,Pix,Loja Física
+79,27,F,Casado,5590.88,Belo Horizonte,MG,4,30.0,Alimentos,49,Sim,Sim,55,Boleto,Site
+80,53,Outro,Divorciado,5617.91,Salvador,SP,0,171.74,Roupas,2,Sim,Sim,67,Boleto,Loja Física
+81,31,M,Divorciado,2051.93,São Paulo,RJ,2,326.64,Roupas,3,Não,Não,31,Crédito,Site
+82,48,M,Solteiro,4918.99,Salvador,PR,5,208.61,Roupas,11,Sim,Sim,65,Débito,Loja Física
+83,65,F,Divorciado,7165.19,Curitiba,SP,5,296.08,Alimentos,50,Não,Sim,28,Pix,Loja Física
+84,32,F,Solteiro,4759.74,Rio de Janeiro,SP,3,97.77,Cosméticos,59,Sim,Não,65,Dinheiro,Loja Física
+85,25,F,Casado,7657.19,São Paulo,RJ,1,329.8,Utilidades,35,Sim,Sim,33,Crédito,Loja Física
+86,31,Outro,Solteiro,8037.93,Belo Horizonte,PR,3,194.49,Eletrônicos,58,Não,Sim,26,Dinheiro,Loja Física
+87,40,M,Divorciado,3463.06,Curitiba,BA,2,251.22,Cosméticos,15,Sim,Não,59,Pix,Site
+88,57,M,Casado,2606.12,Rio de Janeiro,PR,5,240.71,Alimentos,43,Não,Sim,38,Pix,Loja Física
+89,38,Outro,Solteiro,2477.08,Salvador,MG,1,122.85,Alimentos,11,Sim,Sim,43,Pix,Site
+90,33,M,Solteiro,1000.0,Rio de Janeiro,SP,3,134.69,Roupas,31,Sim,Sim,81,Pix,Loja Física
+91,62,F,Casado,2963.19,Curitiba,MG,3,346.78,Cosméticos,28,Não,Não,35,Dinheiro,App
+92,35,F,Casado,6415.33,Curitiba,BA,4,289.9,Roupas,28,Não,Não,18,Crédito,App
+93,64,F,Solteiro,1000.0,Rio de Janeiro,MG,2,355.0,Eletrônicos,32,Sim,Não,44,Pix,Loja Física
+94,41,M,Divorciado,1925.09,Salvador,PR,2,282.47,Roupas,25,Sim,Sim,83,Boleto,Site
+95,43,F,Solteiro,3745.74,Rio de Janeiro,MG,1,264.3,Eletrônicos,20,Não,Sim,20,Crédito,Loja Física
+96,42,Outro,Casado,2245.63,Curitiba,BA,0,77.4,Alimentos,28,Não,Sim,22,Boleto,App
+97,62,Outro,Solteiro,2945.43,Curitiba,BA,2,222.96,Roupas,25,Sim,Sim,88,Dinheiro,Site
+98,58,M,Casado,2975.34,Belo Horizonte,BA,2,247.26,Roupas,11,Não,Não,26,Pix,Loja Física
+99,46,Outro,Casado,3484.92,Belo Horizonte,PR,1,445.31,Utilidades,19,Sim,Sim,71,Crédito,Loja Física
+100,32,Outro,Divorciado,2541.09,São Paulo,BA,5,318.7,Alimentos,28,Sim,Sim,18,Pix,Loja Física
+101,62,M,Casado,2377.57,Curitiba,SP,7,403.61,Utilidades,1,Sim,Sim,40,Pix,Loja Física
+102,18,F,Casado,5868.62,Belo Horizonte,BA,2,309.75,Eletrônicos,59,Sim,Não,25,Crédito,Site
+103,42,F,Divorciado,6099.31,Rio de Janeiro,MG,2,178.87,Eletrônicos,5,Não,Não,27,Pix,Site
+104,24,F,Casado,1238.91,Salvador,MG,2,261.71,Alimentos,10,Sim,Não,63,Pix,Loja Física
+105,26,M,Divorciado,1000.0,Rio de Janeiro,MG,1,273.62,Eletrônicos,42,Não,Não,67,Débito,Loja Física
+106,41,Outro,Divorciado,6126.75,Salvador,PR,2,156.08,Alimentos,46,Sim,Sim,79,Débito,Loja Física
+107,18,F,Casado,1542.4,Belo Horizonte,MG,2,211.56,Eletrônicos,34,Não,Sim,50,Crédito,Loja Física
+108,61,F,Casado,4425.49,São Paulo,PR,5,229.42,Cosméticos,36,Não,Sim,73,Crédito,App
+109,25,M,Solteiro,1000.0,Rio de Janeiro,PR,0,410.56,Roupas,2,Sim,Não,47,Pix,Loja Física
+110,41,F,Divorciado,6595.51,Rio de Janeiro,BA,3,41.93,Cosméticos,18,Sim,Não,9,Boleto,Site
+111,28,M,Solteiro,9087.34,Rio de Janeiro,SP,2,370.58,Alimentos,13,Sim,Não,72,Crédito,Loja Física
+112,68,Outro,Casado,4365.61,Salvador,BA,5,156.32,Alimentos,51,Não,Não,38,Pix,Loja Física
+113,34,M,Solteiro,3811.79,Belo Horizonte,BA,3,112.79,Cosméticos,5,Não,Não,18,Boleto,Site
+114,25,M,Divorciado,3355.72,Rio de Janeiro,PR,5,367.99,Roupas,20,Sim,Não,63,Débito,Site
+115,52,M,Solteiro,5563.6,Rio de Janeiro,PR,6,323.19,Roupas,2,Não,Não,18,Crédito,Site
+116,52,M,Divorciado,5135.37,São Paulo,MG,3,375.45,Utilidades,11,Sim,Não,75,Pix,Site
+117,50,Outro,Casado,6007.0,São Paulo,MG,5,330.07,Eletrônicos,30,Sim,Sim,61,Débito,Site
+118,22,Outro,Casado,2744.17,Belo Horizonte,BA,2,455.98,Utilidades,32,Não,Não,12,Dinheiro,Loja Física
+119,59,F,Divorciado,4680.24,Belo Horizonte,RJ,0,305.87,Roupas,32,Sim,Não,24,Débito,Site
+120,56,Outro,Casado,2915.06,Curitiba,RJ,6,234.35,Cosméticos,58,Não,Sim,88,Pix,Site
+121,58,Outro,Casado,1884.57,São Paulo,MG,5,284.29,Eletrônicos,50,Sim,Não,41,Boleto,Loja Física
+122,45,F,Casado,3917.97,Curitiba,RJ,3,374.35,Cosméticos,38,Sim,Não,38,Dinheiro,Site
+123,24,Outro,Casado,2154.97,Salvador,MG,6,172.06,Utilidades,55,Sim,Sim,29,Dinheiro,Loja Física
+124,26,M,Divorciado,6347.45,Curitiba,PR,3,184.81,Alimentos,28,Sim,Não,4,Dinheiro,Loja Física
+125,25,M,Solteiro,2276.16,Rio de Janeiro,BA,1,219.1,Cosméticos,10,Não,Sim,80,Crédito,Site
+126,29,F,Solteiro,4727.09,Curitiba,SP,0,39.54,Utilidades,22,Sim,Não,17,Pix,App
+127,51,F,Casado,2793.16,Belo Horizonte,BA,2,263.81,Utilidades,55,Sim,Não,20,Dinheiro,App
+128,50,F,Solteiro,4554.13,Salvador,MG,2,61.39,Utilidades,17,Sim,Sim,85,Débito,Loja Física
+129,65,M,Solteiro,2952.01,Rio de Janeiro,MG,4,255.31,Alimentos,22,Sim,Sim,49,Boleto,Site
+130,40,Outro,Casado,1485.58,Curitiba,BA,5,336.53,Alimentos,43,Não,Não,5,Pix,Site
+131,41,M,Casado,4967.55,Salvador,MG,1,202.31,Alimentos,19,Sim,Sim,49,Débito,Loja Física
+132,54,F,Solteiro,3529.17,Salvador,RJ,4,417.71,Eletrônicos,17,Sim,Sim,79,Crédito,App
+133,52,Outro,Divorciado,4571.97,Rio de Janeiro,RJ,3,103.95,Alimentos,24,Não,Não,65,Dinheiro,App
+134,61,Outro,Casado,3142.31,Curitiba,MG,2,369.13,Alimentos,36,Sim,Sim,0,Débito,App
+135,57,M,Divorciado,1344.13,Salvador,MG,3,317.51,Alimentos,32,Não,Sim,56,Pix,Loja Física
+136,39,F,Solteiro,6166.36,Salvador,RJ,2,78.4,Cosméticos,58,Sim,Não,29,Débito,Loja Física
+137,44,M,Casado,5473.52,São Paulo,MG,3,521.08,Alimentos,56,Sim,Não,57,Crédito,App
+138,52,Outro,Divorciado,2866.08,Salvador,MG,5,243.63,Eletrônicos,58,Não,Não,51,Boleto,Site
+139,18,M,Casado,4139.56,São Paulo,BA,2,162.25,Utilidades,46,Não,Não,36,Dinheiro,App
+140,52,M,Solteiro,6084.04,Curitiba,SP,5,109.29,Cosméticos,59,Sim,Sim,47,Pix,Loja Física
+141,54,F,Divorciado,3085.92,Curitiba,RJ,1,228.0,Roupas,52,Sim,Sim,86,Dinheiro,Site
+142,64,F,Solteiro,3396.23,Curitiba,BA,0,237.26,Alimentos,36,Sim,Sim,0,Dinheiro,Site
+143,31,Outro,Solteiro,4487.27,Belo Horizonte,SP,4,260.26,Utilidades,28,Sim,Não,18,Dinheiro,Loja Física
+144,20,M,Casado,3081.82,Curitiba,MG,6,220.22,Utilidades,14,Não,Não,45,Débito,Site
+145,18,M,Divorciado,5714.18,Salvador,MG,4,313.32,Cosméticos,58,Sim,Não,66,Débito,Site
+146,22,M,Solteiro,3662.2,Rio de Janeiro,BA,3,211.24,Roupas,36,Sim,Não,1,Boleto,Loja Física
+147,43,Outro,Solteiro,2431.93,São Paulo,MG,5,56.5,Eletrônicos,6,Não,Não,55,Crédito,Loja Física
+148,31,Outro,Divorciado,5217.28,Belo Horizonte,PR,2,235.06,Utilidades,9,Sim,Sim,16,Pix,Site
+149,56,F,Solteiro,1715.74,Curitiba,BA,2,30.0,Utilidades,21,Sim,Sim,81,Débito,Site
+150,44,F,Solteiro,8029.76,Curitiba,SP,2,285.38,Utilidades,12,Não,Sim,78,Dinheiro,App
+151,26,F,Divorciado,7164.99,Rio de Janeiro,BA,4,152.07,Utilidades,58,Não,Sim,21,Crédito,Loja Física
+152,32,M,Divorciado,5026.99,Rio de Janeiro,RJ,3,266.34,Cosméticos,30,Sim,Não,26,Pix,Loja Física
+153,32,M,Divorciado,4858.66,Belo Horizonte,BA,5,381.41,Roupas,31,Sim,Sim,54,Pix,App
+154,43,F,Divorciado,4764.88,São Paulo,MG,2,155.13,Utilidades,40,Sim,Não,31,Pix,App
+155,59,M,Casado,3021.81,Curitiba,MG,2,356.13,Eletrônicos,56,Sim,Não,59,Pix,Loja Física
+156,30,F,Divorciado,4594.62,Belo Horizonte,PR,3,206.66,Eletrônicos,4,Sim,Sim,82,Boleto,App
+157,68,Outro,Casado,2153.73,Salvador,PR,3,425.32,Alimentos,31,Não,Sim,27,Pix,Loja Física
+158,49,F,Casado,5007.64,Salvador,PR,4,213.48,Utilidades,27,Não,Sim,27,Crédito,Loja Física
+159,56,Outro,Casado,5735.69,Belo Horizonte,SP,1,165.95,Utilidades,58,Não,Sim,73,Débito,Loja Física
+160,66,M,Solteiro,3243.83,Curitiba,PR,0,318.72,Utilidades,57,Sim,Não,83,Crédito,Loja Física
+161,69,F,Casado,2809.8,Belo Horizonte,SP,1,206.42,Utilidades,25,Não,Sim,24,Dinheiro,App
+162,49,M,Casado,1575.05,Curitiba,PR,4,165.86,Utilidades,5,Sim,Não,84,Boleto,App
+163,21,Outro,Solteiro,6915.91,Rio de Janeiro,SP,3,202.22,Eletrônicos,6,Sim,Não,77,Boleto,App
+164,47,Outro,Solteiro,2968.67,Belo Horizonte,BA,4,245.54,Roupas,5,Sim,Não,85,Dinheiro,App
+165,54,Outro,Solteiro,3602.52,Curitiba,BA,1,384.22,Roupas,51,Sim,Não,25,Crédito,Site
+166,40,M,Divorciado,4600.31,Belo Horizonte,MG,5,56.59,Alimentos,27,Não,Sim,74,Crédito,Site
+167,56,M,Solteiro,4564.42,Belo Horizonte,SP,3,252.31,Eletrônicos,8,Sim,Sim,70,Dinheiro,App
+168,62,M,Solteiro,5493.12,Curitiba,RJ,4,312.49,Utilidades,9,Sim,Sim,16,Pix,App
+169,32,M,Casado,3241.34,Curitiba,MG,4,269.34,Roupas,15,Não,Sim,81,Pix,App
+170,60,Outro,Solteiro,1722.66,São Paulo,BA,4,380.99,Cosméticos,36,Sim,Não,6,Débito,App
+171,46,Outro,Divorciado,1372.67,Belo Horizonte,SP,1,242.57,Cosméticos,57,Não,Não,55,Crédito,Loja Física
+172,53,F,Solteiro,2841.49,Salvador,PR,4,231.54,Cosméticos,41,Sim,Sim,63,Crédito,App
+173,30,F,Divorciado,2096.3,Belo Horizonte,RJ,3,309.23,Utilidades,7,Sim,Sim,19,Dinheiro,App
+174,49,M,Solteiro,3392.77,Belo Horizonte,BA,2,259.93,Utilidades,32,Não,Sim,37,Dinheiro,App
+175,24,Outro,Solteiro,6615.16,Curitiba,MG,5,210.96,Alimentos,8,Sim,Não,74,Pix,Loja Física
+176,68,Outro,Solteiro,3245.44,Belo Horizonte,SP,4,301.61,Alimentos,47,Sim,Não,57,Crédito,Site
+177,39,Outro,Solteiro,3244.7,Belo Horizonte,RJ,3,184.75,Alimentos,51,Sim,Não,15,Crédito,Site
+178,45,F,Divorciado,3967.2,Salvador,SP,4,188.88,Cosméticos,15,Sim,Não,50,Boleto,Loja Física
+179,19,F,Divorciado,3188.75,Curitiba,PR,4,197.2,Utilidades,37,Sim,Sim,26,Débito,Site
+180,59,Outro,Casado,3865.22,Belo Horizonte,MG,3,385.31,Cosméticos,19,Sim,Sim,50,Débito,Loja Física
+181,62,Outro,Divorciado,5081.74,Rio de Janeiro,SP,1,30.0,Alimentos,39,Sim,Sim,74,Pix,Loja Física
+182,23,Outro,Solteiro,5769.5,São Paulo,BA,2,289.56,Utilidades,6,Não,Sim,15,Crédito,Site
+183,45,F,Casado,6006.43,Salvador,MG,0,253.43,Eletrônicos,59,Sim,Não,86,Boleto,Site
+184,45,Outro,Casado,8113.7,Belo Horizonte,BA,4,81.91,Roupas,19,Sim,Não,59,Crédito,Site
+185,61,Outro,Casado,5138.72,Rio de Janeiro,SP,1,280.97,Roupas,57,Sim,Não,75,Dinheiro,Site
+186,61,M,Solteiro,8468.96,Belo Horizonte,MG,5,297.58,Alimentos,28,Não,Sim,39,Pix,Loja Física
+187,37,M,Divorciado,2447.04,Belo Horizonte,BA,1,308.96,Cosméticos,17,Não,Sim,66,Débito,Loja Física
+188,47,F,Solteiro,8182.57,Curitiba,PR,4,30.0,Eletrônicos,42,Não,Sim,1,Crédito,Loja Física
+189,28,Outro,Casado,3239.25,Curitiba,PR,1,386.64,Utilidades,19,Não,Não,47,Pix,Loja Física
+190,45,Outro,Solteiro,3435.96,Curitiba,SP,6,176.23,Cosméticos,31,Sim,Não,51,Débito,Site
+191,42,M,Solteiro,3760.25,Rio de Janeiro,MG,4,318.66,Alimentos,11,Sim,Sim,23,Crédito,App
+192,56,F,Divorciado,3562.76,Belo Horizonte,RJ,1,324.11,Cosméticos,15,Sim,Não,83,Boleto,Loja Física
+193,50,M,Divorciado,4171.68,São Paulo,MG,3,162.33,Alimentos,10,Sim,Não,81,Pix,Loja Física
+194,18,M,Casado,2839.94,Salvador,PR,3,316.05,Roupas,43,Sim,Sim,77,Crédito,App
+195,44,M,Solteiro,5659.92,Curitiba,BA,4,211.45,Roupas,23,Sim,Não,81,Débito,Loja Física
+196,69,M,Solteiro,2894.33,Curitiba,RJ,2,42.86,Cosméticos,3,Não,Sim,1,Débito,App
+197,30,Outro,Divorciado,5311.22,Belo Horizonte,SP,4,366.77,Eletrônicos,3,Não,Não,64,Boleto,App
+198,58,Outro,Solteiro,7055.45,Belo Horizonte,RJ,3,172.5,Utilidades,18,Sim,Não,19,Pix,Loja Física
+199,20,M,Solteiro,3285.8,Rio de Janeiro,SP,3,164.55,Alimentos,25,Não,Não,33,Pix,Loja Física
+200,56,F,Solteiro,5588.77,Rio de Janeiro,RJ,2,209.69,Utilidades,43,Sim,Sim,40,Crédito,Site
+201,23,F,Divorciado,5118.32,Curitiba,SP,4,277.22,Roupas,20,Sim,Sim,40,Débito,Loja Física
+202,25,F,Casado,8505.77,Belo Horizonte,SP,3,244.27,Eletrônicos,58,Sim,Sim,74,Débito,Loja Física
+203,44,F,Casado,2990.34,São Paulo,RJ,1,304.81,Eletrônicos,29,Sim,Sim,22,Boleto,Loja Física
+204,26,M,Solteiro,5590.14,Salvador,RJ,1,116.05,Utilidades,22,Sim,Não,37,Boleto,App
+205,54,Outro,Casado,1000.0,Belo Horizonte,SP,2,175.76,Roupas,50,Não,Não,43,Pix,Site
+206,50,F,Divorciado,3008.28,Belo Horizonte,PR,2,238.4,Utilidades,57,Sim,Sim,66,Débito,Loja Física
+207,68,M,Divorciado,4706.79,Rio de Janeiro,RJ,1,439.79,Cosméticos,15,Sim,Sim,61,Crédito,Site
+208,59,F,Casado,6786.32,Salvador,MG,6,238.62,Eletrônicos,39,Sim,Sim,11,Dinheiro,Site
+209,61,F,Casado,1548.13,Curitiba,BA,2,358.52,Eletrônicos,10,Sim,Sim,29,Crédito,Site
+210,41,M,Solteiro,5572.18,Belo Horizonte,SP,5,253.86,Cosméticos,21,Não,Sim,86,Boleto,Loja Física
+211,32,Outro,Casado,3873.55,Curitiba,SP,7,201.63,Roupas,55,Sim,Sim,64,Crédito,Site
+212,49,Outro,Solteiro,1000.0,Belo Horizonte,BA,5,225.33,Eletrônicos,52,Não,Não,40,Débito,App
+213,49,M,Solteiro,4363.17,Curitiba,PR,4,233.16,Alimentos,29,Não,Sim,19,Pix,Loja Física
+214,41,Outro,Divorciado,7418.32,Salvador,BA,3,310.36,Alimentos,32,Sim,Não,5,Dinheiro,Loja Física
+215,58,M,Divorciado,1759.15,Rio de Janeiro,RJ,4,387.46,Roupas,10,Sim,Não,74,Pix,Loja Física
+216,69,M,Divorciado,3780.12,Salvador,BA,1,285.97,Cosméticos,13,Não,Sim,3,Dinheiro,Loja Física
+217,66,M,Divorciado,2026.72,São Paulo,SP,2,368.71,Utilidades,47,Não,Não,9,Dinheiro,Loja Física
+218,66,Outro,Casado,3062.83,Rio de Janeiro,BA,4,153.52,Roupas,23,Sim,Não,50,Débito,App
+219,69,M,Divorciado,6864.34,Salvador,MG,1,208.54,Utilidades,50,Não,Não,37,Débito,App
+220,29,F,Casado,3456.95,São Paulo,RJ,4,177.57,Roupas,23,Não,Sim,0,Boleto,Loja Física
+221,56,Outro,Divorciado,6803.13,Belo Horizonte,BA,6,281.44,Alimentos,31,Sim,Sim,7,Boleto,Site
+222,19,Outro,Casado,6218.11,Belo Horizonte,SP,3,214.1,Cosméticos,4,Sim,Não,80,Dinheiro,Site
+223,20,Outro,Solteiro,3274.52,Curitiba,RJ,1,322.98,Alimentos,52,Não,Não,82,Boleto,Site
+224,66,Outro,Casado,2994.8,Rio de Janeiro,SP,2,156.9,Cosméticos,49,Sim,Sim,62,Débito,Site
+225,54,F,Casado,2208.0,Belo Horizonte,PR,4,254.3,Utilidades,3,Sim,Sim,32,Boleto,Loja Física
+226,66,Outro,Divorciado,2138.24,Rio de Janeiro,MG,3,318.69,Roupas,21,Sim,Sim,14,Dinheiro,Site
+227,34,Outro,Casado,4706.41,Belo Horizonte,PR,1,43.47,Eletrônicos,53,Sim,Sim,30,Pix,Site
+228,66,M,Solteiro,3960.43,Curitiba,MG,7,462.16,Eletrônicos,2,Sim,Não,20,Crédito,App
+229,19,Outro,Solteiro,2752.79,Salvador,BA,2,221.68,Cosméticos,4,Não,Sim,2,Boleto,App
+230,19,F,Divorciado,1000.0,Curitiba,RJ,5,47.5,Cosméticos,1,Sim,Sim,65,Débito,Loja Física
+231,45,F,Solteiro,4212.36,São Paulo,BA,6,265.81,Alimentos,15,Sim,Não,34,Pix,Loja Física
+232,40,F,Casado,3060.9,Belo Horizonte,MG,1,253.34,Eletrônicos,57,Sim,Sim,40,Débito,App
+233,54,F,Solteiro,3609.4,São Paulo,MG,0,241.81,Alimentos,33,Sim,Não,58,Boleto,Site
+234,49,Outro,Divorciado,4609.32,São Paulo,MG,2,349.12,Utilidades,6,Sim,Não,15,Dinheiro,App
+235,50,Outro,Casado,1000.0,Rio de Janeiro,SP,3,324.74,Eletrônicos,7,Sim,Sim,55,Crédito,Loja Física
+236,18,F,Divorciado,1000.0,Belo Horizonte,RJ,5,279.79,Utilidades,19,Sim,Não,44,Crédito,Site
+237,36,F,Casado,8592.89,São Paulo,BA,0,295.02,Roupas,44,Sim,Não,58,Pix,Site
+238,19,Outro,Solteiro,2986.78,Salvador,BA,0,239.56,Alimentos,1,Sim,Sim,49,Crédito,App
+239,61,F,Divorciado,1000.0,São Paulo,PR,3,427.55,Cosméticos,39,Sim,Sim,84,Dinheiro,Loja Física
+240,43,M,Divorciado,1100.12,Salvador,MG,4,102.08,Eletrônicos,19,Não,Não,11,Débito,Loja Física
+241,49,F,Casado,8968.93,Rio de Janeiro,MG,3,263.97,Alimentos,45,Sim,Não,11,Dinheiro,Site
+242,23,F,Divorciado,2594.01,São Paulo,MG,4,256.5,Cosméticos,26,Sim,Não,32,Pix,App
+243,49,M,Casado,6318.03,Curitiba,BA,3,331.33,Roupas,44,Não,Sim,83,Pix,App
+244,21,M,Casado,4242.24,Rio de Janeiro,PR,5,165.61,Eletrônicos,12,Sim,Não,48,Crédito,App
+245,28,Outro,Casado,3030.07,Salvador,SP,6,75.63,Utilidades,22,Sim,Sim,20,Dinheiro,App
+246,34,Outro,Casado,5550.89,Rio de Janeiro,RJ,3,265.68,Roupas,13,Sim,Não,59,Débito,Loja Física
+247,55,M,Solteiro,1000.0,São Paulo,SP,4,278.12,Cosméticos,28,Sim,Não,51,Dinheiro,Loja Física
+248,41,M,Casado,1117.73,Belo Horizonte,BA,1,398.96,Eletrônicos,14,Não,Não,53,Débito,Loja Física
+249,22,Outro,Divorciado,3015.3,Belo Horizonte,MG,3,122.96,Eletrônicos,22,Não,Não,38,Débito,Loja Física
+250,69,F,Solteiro,1314.19,Salvador,RJ,3,365.47,Roupas,30,Sim,Não,48,Dinheiro,App
+251,51,M,Divorciado,2838.44,Salvador,BA,2,486.74,Eletrônicos,44,Sim,Não,63,Boleto,App
+252,23,Outro,Solteiro,5707.43,Belo Horizonte,BA,4,212.22,Cosméticos,20,Sim,Sim,85,Dinheiro,Loja Física
+253,39,F,Casado,4264.27,Salvador,BA,3,120.91,Roupas,44,Não,Não,25,Débito,Site
+254,28,M,Solteiro,6661.23,Rio de Janeiro,RJ,5,209.3,Utilidades,27,Não,Não,70,Pix,App
+255,65,F,Solteiro,4390.75,Curitiba,RJ,3,251.4,Roupas,38,Sim,Sim,6,Pix,Site
+256,33,Outro,Divorciado,5984.92,Curitiba,PR,3,306.38,Roupas,59,Sim,Sim,71,Crédito,Loja Física
+257,50,M,Divorciado,3871.86,Rio de Janeiro,PR,2,190.86,Utilidades,42,Sim,Sim,61,Pix,Site
+258,26,F,Casado,2819.45,Curitiba,SP,0,405.52,Cosméticos,52,Sim,Não,89,Boleto,Loja Física
+259,23,M,Solteiro,6961.14,São Paulo,RJ,4,138.55,Alimentos,56,Sim,Não,87,Débito,Site
+260,33,F,Solteiro,2581.3,Rio de Janeiro,RJ,3,76.08,Alimentos,41,Sim,Sim,23,Dinheiro,Site
+261,46,Outro,Solteiro,4687.69,Salvador,RJ,2,360.67,Utilidades,34,Sim,Não,39,Dinheiro,Loja Física
+262,20,Outro,Casado,5537.79,Rio de Janeiro,PR,4,30.0,Cosméticos,39,Não,Sim,75,Boleto,App
+263,37,M,Casado,5682.99,Belo Horizonte,BA,6,229.59,Eletrônicos,41,Não,Não,46,Pix,Site
+264,53,F,Casado,1669.11,Salvador,MG,4,561.77,Utilidades,57,Sim,Sim,7,Débito,Site
+265,36,M,Casado,6103.9,Belo Horizonte,PR,4,248.8,Alimentos,44,Sim,Sim,53,Pix,App
+266,43,M,Casado,2042.09,Salvador,RJ,2,137.92,Cosméticos,37,Não,Sim,8,Crédito,Loja Física
+267,20,F,Divorciado,5621.41,Curitiba,PR,1,244.26,Roupas,1,Sim,Sim,2,Pix,Loja Física
+268,36,F,Solteiro,5070.35,Rio de Janeiro,SP,1,244.92,Cosméticos,54,Sim,Não,53,Crédito,App
+269,37,F,Solteiro,5637.26,São Paulo,RJ,1,266.06,Cosméticos,15,Sim,Não,20,Dinheiro,Loja Física
+270,49,Outro,Solteiro,1589.99,Salvador,SP,4,316.23,Alimentos,32,Sim,Sim,47,Débito,App
+271,24,M,Solteiro,5175.86,Salvador,RJ,3,146.09,Alimentos,8,Sim,Sim,46,Crédito,Loja Física
+272,69,M,Solteiro,6171.19,Belo Horizonte,PR,4,418.75,Eletrônicos,33,Sim,Sim,87,Pix,Loja Física
+273,58,Outro,Solteiro,4386.79,Curitiba,BA,4,274.51,Eletrônicos,18,Sim,Não,67,Pix,Site
+274,50,F,Solteiro,2362.77,Belo Horizonte,MG,2,322.68,Utilidades,45,Sim,Não,83,Dinheiro,Loja Física
+275,57,Outro,Solteiro,5839.5,Belo Horizonte,SP,6,187.19,Roupas,29,Sim,Sim,62,Boleto,App
+276,56,Outro,Divorciado,4227.84,Curitiba,PR,3,378.64,Eletrônicos,32,Sim,Não,15,Boleto,Site
+277,35,Outro,Solteiro,1000.0,São Paulo,BA,1,224.29,Alimentos,33,Não,Sim,73,Pix,App
+278,57,M,Divorciado,2207.62,Belo Horizonte,PR,3,277.76,Cosméticos,5,Sim,Não,89,Boleto,App
+279,18,Outro,Casado,2947.41,Belo Horizonte,SP,2,156.69,Utilidades,18,Sim,Não,4,Débito,Loja Física
+280,28,M,Solteiro,7011.64,Salvador,MG,2,150.31,Eletrônicos,48,Sim,Não,10,Boleto,App
+281,45,M,Casado,6660.37,Curitiba,PR,3,318.82,Cosméticos,58,Sim,Não,28,Débito,Site
+282,42,M,Casado,6653.94,Rio de Janeiro,RJ,3,205.64,Cosméticos,10,Sim,Não,78,Pix,Site
+283,67,F,Casado,4464.72,São Paulo,BA,3,164.62,Eletrônicos,36,Não,Não,69,Pix,App
+284,40,M,Divorciado,5827.19,São Paulo,PR,3,185.68,Roupas,33,Sim,Não,47,Pix,Site
+285,48,M,Casado,1718.44,Curitiba,BA,6,319.9,Roupas,23,Sim,Sim,14,Dinheiro,Site
+286,47,F,Casado,4013.61,Salvador,RJ,6,187.1,Utilidades,40,Não,Sim,83,Boleto,Site
+287,59,M,Casado,4903.27,Salvador,MG,3,238.23,Roupas,5,Sim,Sim,33,Crédito,Loja Física
+288,52,Outro,Solteiro,1850.2,Curitiba,MG,3,251.5,Utilidades,34,Sim,Não,59,Crédito,Loja Física
+289,24,Outro,Solteiro,4419.82,Salvador,RJ,3,58.27,Alimentos,24,Sim,Sim,61,Pix,Site
+290,33,M,Divorciado,7373.28,São Paulo,BA,2,102.89,Eletrônicos,17,Sim,Sim,1,Boleto,Loja Física
+291,43,F,Divorciado,5117.54,São Paulo,PR,3,283.63,Cosméticos,31,Não,Sim,79,Débito,Loja Física
+292,65,Outro,Solteiro,5835.09,Rio de Janeiro,RJ,3,176.3,Utilidades,7,Sim,Sim,18,Crédito,Loja Física
+293,69,F,Divorciado,1000.0,Curitiba,SP,3,355.67,Roupas,17,Sim,Não,48,Pix,Site
+294,66,F,Solteiro,7115.94,Belo Horizonte,BA,1,346.68,Utilidades,28,Não,Não,77,Crédito,Loja Física
+295,19,Outro,Casado,3627.76,Belo Horizonte,MG,4,321.92,Utilidades,38,Sim,Não,87,Crédito,App
+296,18,F,Casado,2462.63,Rio de Janeiro,RJ,1,431.98,Roupas,22,Sim,Não,27,Crédito,Loja Física
+297,65,Outro,Divorciado,3650.72,Rio de Janeiro,MG,4,241.69,Roupas,15,Sim,Não,47,Pix,Site
+298,29,F,Solteiro,1029.96,Salvador,BA,2,314.89,Eletrônicos,37,Sim,Sim,36,Pix,Site
+299,22,Outro,Solteiro,6095.88,Rio de Janeiro,MG,2,191.56,Cosméticos,15,Não,Sim,73,Dinheiro,Site
+300,54,M,Divorciado,3329.21,Rio de Janeiro,RJ,5,495.24,Eletrônicos,50,Não,Não,48,Dinheiro,Loja Física
+301,49,Outro,Solteiro,2522.74,Belo Horizonte,BA,4,448.36,Eletrônicos,50,Sim,Sim,47,Dinheiro,App
+302,26,Outro,Casado,3663.89,Salvador,SP,1,251.19,Roupas,25,Sim,Sim,72,Crédito,App
+303,58,Outro,Divorciado,6236.03,Rio de Janeiro,RJ,1,288.66,Roupas,53,Sim,Não,87,Boleto,App
+304,52,Outro,Divorciado,4262.92,Rio de Janeiro,PR,5,385.93,Cosméticos,21,Sim,Sim,28,Pix,App
+305,36,F,Solteiro,1180.61,Salvador,RJ,3,235.29,Utilidades,55,Sim,Sim,59,Dinheiro,Site
+306,65,M,Divorciado,4929.96,Curitiba,BA,1,184.34,Eletrônicos,38,Sim,Sim,28,Boleto,Site
+307,33,Outro,Solteiro,2142.04,Salvador,RJ,1,337.4,Cosméticos,2,Não,Sim,57,Dinheiro,App
+308,20,F,Solteiro,1000.0,Belo Horizonte,SP,5,257.84,Eletrônicos,27,Não,Sim,47,Dinheiro,Site
+309,37,M,Solteiro,6992.01,Curitiba,SP,4,268.3,Utilidades,49,Sim,Sim,22,Boleto,App
+310,41,M,Solteiro,4914.46,São Paulo,PR,4,166.57,Eletrônicos,32,Sim,Não,26,Dinheiro,App
+311,50,M,Solteiro,3843.46,Salvador,MG,1,78.23,Alimentos,21,Sim,Não,6,Crédito,App
+312,41,M,Divorciado,3308.78,Belo Horizonte,BA,0,273.61,Cosméticos,4,Não,Sim,48,Crédito,Loja Física
+313,69,Outro,Casado,6794.16,Curitiba,BA,4,340.5,Roupas,44,Não,Não,53,Crédito,App
+314,28,Outro,Casado,10174.31,Salvador,MG,2,227.42,Eletrônicos,19,Não,Sim,67,Débito,Site
+315,66,F,Divorciado,4897.56,Rio de Janeiro,SP,4,393.64,Cosméticos,2,Sim,Sim,77,Dinheiro,Site
+316,25,F,Divorciado,1940.73,Salvador,SP,1,179.61,Cosméticos,26,Sim,Sim,41,Débito,Loja Física
+317,53,F,Casado,3691.07,São Paulo,RJ,1,144.53,Eletrônicos,34,Sim,Não,73,Pix,App
+318,55,M,Casado,4861.15,Salvador,PR,4,243.28,Roupas,14,Sim,Sim,58,Boleto,App
+319,57,M,Casado,1000.0,Curitiba,PR,2,241.74,Roupas,15,Sim,Não,43,Pix,Loja Física
+320,37,Outro,Casado,4669.0,Curitiba,PR,1,327.0,Eletrônicos,20,Sim,Não,25,Débito,Site
+321,52,M,Casado,4872.85,Salvador,RJ,1,172.5,Cosméticos,34,Sim,Não,22,Crédito,Loja Física
+322,65,M,Solteiro,6652.68,Curitiba,PR,3,386.81,Roupas,36,Sim,Não,72,Dinheiro,App
+323,42,M,Divorciado,6444.25,Rio de Janeiro,MG,4,446.69,Eletrônicos,19,Sim,Não,7,Dinheiro,Site
+324,52,F,Solteiro,4222.34,Salvador,RJ,2,246.09,Eletrônicos,9,Sim,Sim,52,Crédito,Loja Física
+325,42,F,Casado,7029.27,Rio de Janeiro,MG,2,374.97,Eletrônicos,7,Sim,Sim,13,Dinheiro,Loja Física
+326,46,Outro,Casado,8071.36,Rio de Janeiro,RJ,4,144.35,Cosméticos,30,Sim,Não,70,Boleto,Site
+327,35,M,Casado,4055.9,Belo Horizonte,PR,3,357.52,Roupas,13,Sim,Não,6,Boleto,Loja Física
+328,63,M,Solteiro,4836.37,Salvador,MG,1,354.73,Cosméticos,27,Sim,Sim,8,Boleto,Site
+329,35,Outro,Solteiro,1000.0,Curitiba,MG,1,336.34,Alimentos,44,Sim,Sim,2,Pix,App
+330,19,M,Casado,1098.05,Rio de Janeiro,MG,3,248.44,Roupas,35,Não,Sim,77,Crédito,App
+331,52,M,Solteiro,2323.61,Belo Horizonte,RJ,2,30.0,Cosméticos,13,Sim,Sim,16,Boleto,Loja Física
+332,33,F,Solteiro,3112.76,Salvador,BA,3,185.83,Roupas,15,Sim,Sim,43,Débito,App
+333,58,Outro,Casado,1807.75,Salvador,PR,2,187.41,Alimentos,46,Sim,Não,85,Boleto,Site
+334,53,Outro,Solteiro,3928.01,São Paulo,MG,6,152.17,Utilidades,56,Não,Não,45,Pix,Loja Física
+335,50,Outro,Divorciado,3172.58,São Paulo,BA,7,262.22,Eletrônicos,9,Sim,Sim,89,Débito,Loja Física
+336,21,Outro,Divorciado,6141.79,Rio de Janeiro,PR,4,208.1,Cosméticos,45,Sim,Não,57,Crédito,Loja Física
+337,50,F,Divorciado,3050.45,São Paulo,PR,2,167.54,Alimentos,23,Sim,Não,27,Crédito,App
+338,31,F,Divorciado,1000.0,Rio de Janeiro,MG,2,144.12,Alimentos,54,Não,Sim,13,Boleto,Loja Física
+339,38,M,Casado,4251.5,Curitiba,MG,0,178.45,Roupas,36,Não,Sim,8,Débito,Loja Física
+340,65,M,Casado,3971.6,Rio de Janeiro,RJ,5,362.15,Roupas,53,Sim,Não,25,Débito,App
+341,37,M,Casado,2275.9,São Paulo,BA,2,183.9,Eletrônicos,40,Não,Não,1,Boleto,Site
+342,25,M,Divorciado,4190.0,Curitiba,BA,4,198.51,Roupas,3,Não,Sim,74,Boleto,App
+343,24,F,Divorciado,1849.47,São Paulo,MG,4,204.33,Cosméticos,34,Sim,Não,80,Dinheiro,App
+344,20,Outro,Solteiro,4659.68,Rio de Janeiro,PR,4,283.9,Cosméticos,19,Sim,Sim,33,Dinheiro,Loja Física
+345,34,F,Solteiro,9265.85,Belo Horizonte,MG,5,295.62,Cosméticos,28,Sim,Sim,18,Boleto,App
+346,50,M,Divorciado,1000.0,Salvador,PR,3,30.0,Utilidades,23,Não,Sim,38,Pix,Loja Física
+347,65,F,Divorciado,2967.52,São Paulo,PR,3,352.16,Cosméticos,40,Sim,Sim,81,Dinheiro,Site
+348,29,Outro,Divorciado,2646.99,Rio de Janeiro,MG,5,393.64,Roupas,49,Não,Não,12,Boleto,Site
+349,68,Outro,Divorciado,3133.48,Curitiba,SP,4,144.98,Roupas,45,Sim,Não,4,Débito,Loja Física
+350,39,F,Solteiro,6039.85,São Paulo,BA,3,152.77,Cosméticos,7,Sim,Sim,49,Dinheiro,App
+351,39,F,Divorciado,5085.65,São Paulo,PR,4,204.97,Alimentos,41,Não,Não,22,Pix,Site
+352,63,F,Solteiro,5697.53,Salvador,PR,3,174.4,Alimentos,12,Sim,Não,87,Crédito,Loja Física
+353,47,M,Divorciado,4060.99,Rio de Janeiro,SP,3,272.39,Alimentos,14,Sim,Sim,28,Débito,App
+354,55,F,Divorciado,1355.8,Belo Horizonte,RJ,4,55.35,Eletrônicos,46,Sim,Não,71,Pix,Site
+355,55,F,Divorciado,1770.63,Curitiba,SP,3,138.21,Utilidades,15,Sim,Sim,25,Pix,Site
+356,62,F,Solteiro,5492.52,Rio de Janeiro,SP,1,403.92,Cosméticos,3,Sim,Não,78,Pix,Site
+357,68,Outro,Solteiro,4341.66,Curitiba,PR,3,157.18,Eletrônicos,15,Sim,Sim,56,Débito,App
+358,25,Outro,Casado,6520.41,São Paulo,BA,2,374.34,Alimentos,51,Sim,Não,0,Pix,Loja Física
+359,44,M,Divorciado,4586.52,Salvador,SP,2,285.53,Cosméticos,24,Não,Sim,27,Crédito,Loja Física
+360,44,M,Casado,1633.97,Salvador,RJ,4,69.07,Eletrônicos,52,Não,Não,61,Dinheiro,Site
+361,51,Outro,Casado,2956.2,Belo Horizonte,MG,4,313.53,Roupas,46,Sim,Não,46,Débito,Loja Física
+362,38,Outro,Solteiro,5129.63,Salvador,SP,1,238.23,Alimentos,8,Não,Sim,77,Pix,App
+363,47,Outro,Solteiro,5420.66,São Paulo,SP,7,204.45,Eletrônicos,5,Sim,Sim,58,Boleto,Loja Física
+364,50,F,Casado,5710.22,Belo Horizonte,RJ,3,274.5,Roupas,51,Sim,Sim,30,Dinheiro,Loja Física
+365,45,F,Divorciado,1902.95,Rio de Janeiro,BA,2,297.46,Alimentos,4,Sim,Não,69,Débito,Loja Física
+366,64,Outro,Solteiro,1597.94,Salvador,SP,6,320.76,Utilidades,14,Não,Sim,48,Boleto,App
+367,50,F,Divorciado,3620.39,Belo Horizonte,SP,0,367.83,Alimentos,16,Não,Não,4,Boleto,App
+368,22,F,Divorciado,6880.15,São Paulo,BA,6,290.81,Utilidades,20,Sim,Sim,30,Pix,Loja Física
+369,65,M,Casado,2612.26,Curitiba,RJ,3,112.44,Utilidades,24,Sim,Sim,36,Débito,Site
+370,36,Outro,Casado,4909.94,Curitiba,SP,3,202.64,Utilidades,6,Sim,Sim,78,Pix,Loja Física
+371,21,Outro,Casado,4910.12,São Paulo,BA,5,544.3,Cosméticos,55,Sim,Sim,14,Crédito,Site
+372,52,F,Casado,5521.55,São Paulo,SP,5,322.45,Cosméticos,57,Sim,Não,51,Boleto,Loja Física
+373,66,Outro,Solteiro,7328.88,Curitiba,MG,2,486.93,Utilidades,31,Sim,Não,68,Crédito,Site
+374,34,M,Solteiro,7123.81,Belo Horizonte,PR,4,389.54,Roupas,6,Não,Sim,10,Pix,Site
+375,61,M,Casado,2810.79,Curitiba,MG,3,274.18,Utilidades,35,Sim,Não,42,Dinheiro,App
+376,45,M,Solteiro,1000.0,São Paulo,SP,6,280.14,Eletrônicos,15,Não,Sim,69,Boleto,Loja Física
+377,47,Outro,Casado,2642.94,Salvador,RJ,1,246.34,Utilidades,29,Sim,Não,22,Dinheiro,App
+378,46,Outro,Divorciado,4151.34,Rio de Janeiro,PR,3,76.22,Cosméticos,3,Sim,Sim,39,Débito,Site
+379,63,Outro,Divorciado,3276.71,Salvador,MG,5,251.8,Cosméticos,11,Não,Não,62,Boleto,App
+380,23,Outro,Divorciado,7935.8,Salvador,BA,3,371.07,Eletrônicos,3,Não,Não,1,Crédito,Loja Física
+381,52,Outro,Casado,4037.56,São Paulo,RJ,2,190.04,Eletrônicos,28,Sim,Sim,78,Dinheiro,Loja Física
+382,58,M,Divorciado,5307.42,Curitiba,MG,0,291.2,Alimentos,10,Sim,Não,86,Débito,App
+383,54,F,Solteiro,4434.43,Belo Horizonte,BA,1,335.16,Roupas,50,Não,Sim,85,Boleto,Loja Física
+384,41,M,Divorciado,3306.73,Salvador,SP,4,159.03,Roupas,33,Sim,Sim,72,Débito,Loja Física
+385,46,Outro,Divorciado,1000.0,Curitiba,BA,6,204.87,Roupas,48,Sim,Sim,46,Crédito,Loja Física
+386,66,M,Divorciado,3842.76,Belo Horizonte,MG,2,148.21,Cosméticos,16,Sim,Sim,29,Boleto,App
+387,63,Outro,Solteiro,10509.29,Salvador,MG,4,167.78,Roupas,59,Não,Sim,15,Débito,Loja Física
+388,48,Outro,Casado,1511.08,Belo Horizonte,SP,1,121.24,Alimentos,10,Não,Sim,58,Pix,App
+389,52,M,Solteiro,1000.0,Curitiba,BA,1,159.96,Alimentos,33,Não,Sim,46,Boleto,Site
+390,50,Outro,Casado,7872.78,Rio de Janeiro,BA,9,391.95,Roupas,36,Sim,Sim,29,Boleto,Loja Física
+391,69,F,Casado,5484.17,Curitiba,SP,2,158.45,Eletrônicos,3,Sim,Não,8,Boleto,Site
+392,38,Outro,Divorciado,4374.84,São Paulo,BA,2,262.65,Alimentos,5,Sim,Não,64,Boleto,Loja Física
+393,49,F,Casado,6725.35,Belo Horizonte,SP,3,199.71,Eletrônicos,12,Não,Sim,58,Pix,Site
+394,40,F,Solteiro,2337.0,Rio de Janeiro,RJ,4,367.89,Cosméticos,57,Sim,Sim,63,Crédito,Site
+395,50,Outro,Solteiro,3786.81,Belo Horizonte,MG,2,381.12,Alimentos,44,Sim,Sim,7,Pix,Site
+396,20,M,Casado,5910.31,Belo Horizonte,RJ,1,336.41,Eletrônicos,13,Sim,Não,51,Pix,Loja Física
+397,35,F,Divorciado,8220.71,Salvador,PR,2,280.61,Roupas,24,Sim,Não,17,Débito,Site
+398,42,M,Divorciado,1662.91,São Paulo,PR,1,226.89,Cosméticos,44,Não,Sim,81,Dinheiro,App
+399,59,F,Solteiro,6561.47,Belo Horizonte,PR,0,130.81,Utilidades,57,Sim,Sim,57,Dinheiro,App
+400,48,Outro,Divorciado,4763.68,Curitiba,SP,3,444.35,Utilidades,32,Não,Sim,48,Débito,App
+401,20,Outro,Casado,4326.12,Curitiba,BA,2,174.03,Roupas,16,Sim,Sim,31,Pix,Loja Física
+402,57,F,Casado,3984.54,Salvador,RJ,6,316.36,Cosméticos,32,Não,Não,47,Débito,App
+403,63,Outro,Solteiro,1230.71,São Paulo,RJ,2,355.96,Cosméticos,45,Não,Não,44,Boleto,Loja Física
+404,41,F,Casado,5926.18,São Paulo,RJ,2,194.47,Cosméticos,37,Sim,Sim,53,Débito,Loja Física
+405,67,Outro,Solteiro,2435.46,Curitiba,RJ,2,353.8,Cosméticos,56,Não,Não,84,Débito,App
+406,49,M,Casado,1840.62,Rio de Janeiro,PR,6,326.42,Utilidades,36,Sim,Sim,45,Boleto,App
+407,64,Outro,Solteiro,5770.92,Salvador,RJ,1,422.8,Eletrônicos,21,Não,Sim,30,Dinheiro,Site
+408,39,M,Divorciado,5578.27,Salvador,BA,4,203.07,Cosméticos,47,Não,Não,36,Boleto,Loja Física
+409,40,Outro,Casado,4158.0,Curitiba,PR,4,121.41,Eletrônicos,12,Não,Não,15,Crédito,Loja Física
+410,19,M,Casado,6159.09,Curitiba,RJ,2,199.45,Cosméticos,51,Sim,Sim,45,Débito,Site
+411,44,Outro,Solteiro,6851.87,Rio de Janeiro,SP,3,270.89,Alimentos,21,Sim,Sim,45,Débito,App
+412,59,M,Solteiro,6616.45,Rio de Janeiro,MG,0,255.82,Alimentos,51,Sim,Não,77,Dinheiro,Loja Física
+413,19,F,Casado,2943.44,São Paulo,MG,3,210.66,Alimentos,21,Sim,Não,87,Pix,App
+414,43,F,Solteiro,6028.21,Salvador,MG,4,59.08,Cosméticos,43,Não,Sim,88,Boleto,Loja Física
+415,34,M,Casado,4423.28,Salvador,PR,2,297.05,Eletrônicos,53,Não,Sim,60,Pix,App
+416,57,Outro,Divorciado,7451.82,Curitiba,RJ,4,447.23,Utilidades,6,Não,Sim,45,Crédito,App
+417,50,M,Solteiro,3752.54,São Paulo,PR,0,296.43,Roupas,9,Sim,Não,50,Boleto,Site
+418,26,Outro,Casado,3287.06,Salvador,BA,2,310.91,Utilidades,1,Não,Não,61,Crédito,Loja Física
+419,60,F,Divorciado,2772.41,São Paulo,SP,4,307.24,Cosméticos,12,Não,Sim,34,Crédito,App
+420,65,Outro,Divorciado,4378.58,São Paulo,SP,4,289.7,Alimentos,58,Não,Não,80,Crédito,Site
+421,56,F,Casado,4933.45,Curitiba,MG,2,343.17,Alimentos,14,Sim,Não,41,Boleto,Site
+422,46,Outro,Solteiro,4971.92,São Paulo,MG,3,289.54,Eletrônicos,6,Sim,Sim,44,Boleto,Site
+423,59,Outro,Casado,4698.35,Rio de Janeiro,MG,4,218.73,Cosméticos,1,Sim,Sim,67,Dinheiro,Loja Física
+424,43,Outro,Divorciado,5342.07,Rio de Janeiro,RJ,4,170.4,Utilidades,22,Sim,Não,74,Débito,App
+425,52,M,Casado,3554.92,Belo Horizonte,BA,3,225.1,Cosméticos,34,Sim,Não,46,Pix,Loja Física
+426,67,M,Solteiro,2254.97,Curitiba,BA,3,281.41,Cosméticos,56,Não,Não,78,Pix,App
+427,42,F,Divorciado,2080.34,Belo Horizonte,BA,3,218.39,Alimentos,11,Sim,Não,29,Crédito,Loja Física
+428,41,F,Casado,5950.1,Rio de Janeiro,BA,2,281.43,Utilidades,3,Sim,Sim,23,Boleto,App
+429,30,M,Solteiro,4940.64,Belo Horizonte,MG,3,293.92,Roupas,42,Sim,Sim,65,Boleto,Loja Física
+430,24,F,Divorciado,1000.0,Curitiba,SP,4,333.32,Alimentos,6,Não,Não,42,Crédito,Loja Física
+431,53,M,Solteiro,6193.51,Curitiba,MG,5,378.28,Utilidades,6,Não,Sim,33,Débito,Loja Física
+432,62,Outro,Divorciado,7760.87,São Paulo,BA,5,257.8,Eletrônicos,20,Não,Não,22,Pix,App
+433,37,F,Casado,2568.17,Salvador,MG,1,119.22,Alimentos,21,Sim,Não,60,Dinheiro,Site
+434,18,F,Solteiro,4672.32,São Paulo,BA,5,215.49,Eletrônicos,2,Sim,Não,36,Débito,App
+435,25,M,Divorciado,3053.08,Curitiba,PR,4,254.41,Alimentos,26,Não,Sim,12,Boleto,Loja Física
+436,63,F,Solteiro,5256.61,Rio de Janeiro,SP,2,66.42,Cosméticos,31,Sim,Não,70,Crédito,Site
+437,33,F,Solteiro,1667.98,Rio de Janeiro,PR,2,388.87,Utilidades,26,Sim,Não,6,Pix,App
+438,31,Outro,Casado,3857.11,São Paulo,RJ,1,264.24,Eletrônicos,56,Sim,Não,41,Crédito,Loja Física
+439,29,F,Solteiro,5962.63,Curitiba,MG,3,288.14,Alimentos,32,Sim,Sim,37,Boleto,Site
+440,68,Outro,Divorciado,6471.42,Rio de Janeiro,RJ,5,386.55,Eletrônicos,10,Não,Sim,51,Crédito,Site
+441,40,M,Divorciado,4852.99,Curitiba,MG,1,186.99,Alimentos,23,Sim,Sim,43,Pix,Loja Física
+442,32,F,Divorciado,3321.91,Rio de Janeiro,PR,2,307.4,Alimentos,58,Sim,Sim,63,Crédito,Loja Física
+443,45,Outro,Divorciado,1000.0,Curitiba,BA,3,239.01,Roupas,6,Sim,Sim,12,Pix,Site
+444,51,M,Casado,2484.9,Belo Horizonte,BA,3,231.59,Roupas,23,Sim,Não,87,Crédito,Loja Física
+445,19,F,Solteiro,3061.45,Curitiba,MG,3,172.78,Roupas,28,Sim,Não,27,Crédito,App
+446,49,M,Casado,2604.53,Curitiba,BA,3,416.56,Eletrônicos,49,Sim,Não,81,Pix,App
+447,40,F,Solteiro,4119.11,São Paulo,PR,5,212.45,Cosméticos,30,Sim,Não,0,Crédito,Site
+448,39,M,Solteiro,3316.22,Belo Horizonte,BA,4,319.95,Alimentos,14,Sim,Sim,42,Débito,Site
+449,68,M,Solteiro,4344.24,Salvador,PR,3,62.5,Utilidades,37,Sim,Não,41,Dinheiro,Loja Física
+450,42,Outro,Casado,6405.25,São Paulo,RJ,5,368.0,Roupas,55,Sim,Sim,49,Débito,App
+451,39,M,Solteiro,3187.08,Salvador,PR,4,355.22,Eletrônicos,32,Sim,Sim,59,Dinheiro,Loja Física
+452,39,F,Casado,1234.27,Rio de Janeiro,SP,1,259.74,Eletrônicos,49,Sim,Sim,0,Débito,Site
+453,66,F,Divorciado,2596.58,Salvador,SP,3,227.31,Eletrônicos,34,Não,Não,50,Dinheiro,App
+454,69,Outro,Divorciado,5167.18,Curitiba,SP,3,290.0,Utilidades,41,Sim,Não,15,Crédito,Site
+455,59,F,Solteiro,5355.89,Salvador,MG,1,478.88,Utilidades,44,Sim,Sim,38,Pix,App
+456,23,F,Casado,4812.17,São Paulo,MG,5,73.68,Roupas,51,Sim,Não,14,Pix,Site
+457,32,F,Divorciado,6601.47,São Paulo,MG,3,328.2,Utilidades,22,Não,Sim,32,Boleto,Loja Física
+458,60,M,Casado,3627.27,Salvador,PR,2,158.84,Roupas,31,Sim,Sim,86,Dinheiro,App
+459,54,M,Casado,8104.33,São Paulo,MG,3,248.01,Utilidades,7,Sim,Não,52,Boleto,Loja Física
+460,50,F,Solteiro,5636.37,São Paulo,RJ,3,225.21,Utilidades,41,Não,Não,16,Boleto,App
+461,25,Outro,Divorciado,1000.0,Salvador,SP,3,207.17,Utilidades,21,Não,Não,88,Dinheiro,Loja Física
+462,61,M,Solteiro,7601.32,Belo Horizonte,PR,1,248.95,Roupas,16,Não,Não,5,Pix,App
+463,61,Outro,Solteiro,2466.03,Belo Horizonte,SP,5,136.58,Alimentos,20,Sim,Não,30,Dinheiro,Loja Física
+464,22,F,Divorciado,1931.8,Rio de Janeiro,MG,1,352.92,Roupas,43,Sim,Não,68,Crédito,Site
+465,56,F,Divorciado,5047.54,São Paulo,PR,4,70.59,Alimentos,44,Sim,Não,39,Boleto,Site
+466,21,M,Casado,1000.0,Salvador,BA,2,303.98,Eletrônicos,47,Não,Não,29,Boleto,Site
+467,23,F,Divorciado,2609.06,São Paulo,RJ,3,217.35,Eletrônicos,50,Sim,Não,68,Dinheiro,Loja Física
+468,62,M,Casado,7114.2,Curitiba,MG,4,132.91,Roupas,19,Sim,Não,75,Boleto,Site
+469,49,F,Casado,5112.44,São Paulo,MG,3,270.24,Alimentos,48,Não,Sim,6,Pix,Loja Física
+470,69,F,Casado,5624.48,São Paulo,RJ,8,94.3,Alimentos,32,Não,Não,12,Boleto,Site
+471,47,M,Divorciado,2686.18,Belo Horizonte,RJ,2,253.97,Alimentos,15,Não,Sim,3,Dinheiro,Loja Física
+472,64,M,Solteiro,1000.0,Salvador,BA,2,107.71,Eletrônicos,5,Não,Sim,49,Pix,Site
+473,52,M,Casado,5413.63,São Paulo,MG,1,296.13,Roupas,11,Não,Não,2,Pix,Loja Física
+474,57,F,Solteiro,5860.51,Belo Horizonte,MG,1,157.56,Cosméticos,15,Sim,Sim,11,Boleto,App
+475,69,F,Solteiro,5769.99,Rio de Janeiro,SP,5,204.9,Alimentos,29,Não,Não,64,Dinheiro,Site
+476,33,Outro,Divorciado,4418.14,Belo Horizonte,PR,2,279.39,Alimentos,50,Não,Não,26,Boleto,Loja Física
+477,30,M,Solteiro,2065.86,Belo Horizonte,PR,0,172.75,Cosméticos,45,Sim,Sim,49,Crédito,Site
+478,67,F,Solteiro,8875.54,Belo Horizonte,SP,2,244.2,Roupas,4,Sim,Sim,76,Crédito,App
+479,59,F,Divorciado,4959.57,São Paulo,PR,5,98.62,Alimentos,49,Não,Não,16,Pix,Loja Física
+480,47,M,Casado,3652.23,São Paulo,RJ,4,313.09,Roupas,36,Sim,Sim,71,Boleto,Site
+481,36,Outro,Solteiro,3661.1,Rio de Janeiro,PR,4,426.49,Alimentos,48,Não,Sim,31,Crédito,Site
+482,34,M,Divorciado,4299.19,Curitiba,PR,4,529.22,Utilidades,23,Sim,Sim,83,Débito,Loja Física
+483,36,Outro,Solteiro,6139.22,Curitiba,SP,4,259.12,Alimentos,15,Sim,Não,50,Crédito,App
+484,45,F,Solteiro,4379.26,Curitiba,BA,1,328.82,Utilidades,46,Sim,Não,16,Boleto,Loja Física
+485,43,Outro,Casado,5717.03,Rio de Janeiro,PR,3,71.94,Roupas,44,Sim,Não,33,Boleto,Loja Física
+486,54,F,Solteiro,4302.8,Curitiba,PR,1,400.27,Alimentos,3,Sim,Sim,34,Crédito,App
+487,43,M,Divorciado,3775.29,Curitiba,BA,4,327.62,Eletrônicos,32,Sim,Não,23,Boleto,Site
+488,40,M,Solteiro,5282.5,Belo Horizonte,SP,4,201.61,Eletrônicos,10,Sim,Não,53,Boleto,App
+489,26,M,Casado,5206.57,São Paulo,BA,3,373.72,Cosméticos,40,Sim,Sim,17,Débito,Site
+490,29,Outro,Casado,3660.73,São Paulo,SP,3,224.55,Eletrônicos,38,Sim,Não,49,Pix,App
+491,18,F,Divorciado,2501.59,Belo Horizonte,RJ,3,204.2,Utilidades,22,Sim,Não,45,Boleto,App
+492,18,M,Casado,4683.46,Belo Horizonte,SP,4,297.53,Eletrônicos,14,Não,Não,47,Dinheiro,Loja Física
+493,64,M,Solteiro,4156.7,Belo Horizonte,RJ,2,143.66,Eletrônicos,17,Sim,Sim,32,Pix,App
+494,51,F,Casado,2890.26,São Paulo,RJ,3,352.16,Eletrônicos,21,Sim,Sim,86,Pix,Site
+495,49,M,Divorciado,2315.2,Curitiba,SP,4,144.4,Alimentos,51,Sim,Sim,88,Dinheiro,Loja Física
+496,65,F,Casado,4820.95,Belo Horizonte,MG,5,144.99,Cosméticos,48,Sim,Sim,26,Crédito,Site
+497,42,F,Casado,5100.19,Rio de Janeiro,SP,2,159.03,Roupas,15,Sim,Não,0,Débito,Loja Física
+498,57,F,Casado,3279.94,Belo Horizonte,PR,2,325.95,Cosméticos,58,Sim,Sim,84,Boleto,App
+499,62,F,Divorciado,2840.13,Salvador,PR,1,188.32,Utilidades,15,Não,Não,58,Crédito,Site
+500,18,F,Casado,2339.49,Belo Horizonte,MG,2,115.2,Alimentos,1,Não,Sim,9,Dinheiro,App
+501,33,Outro,Casado,4764.51,São Paulo,RJ,4,189.43,Alimentos,24,Não,Sim,24,Débito,Loja Física
+502,56,M,Solteiro,2392.05,Belo Horizonte,MG,2,246.8,Eletrônicos,55,Sim,Não,83,Débito,Site
+503,22,Outro,Divorciado,8482.27,Salvador,PR,2,131.9,Eletrônicos,55,Sim,Sim,56,Débito,Loja Física
+504,39,M,Casado,3179.44,Rio de Janeiro,MG,4,134.83,Utilidades,12,Sim,Não,65,Dinheiro,Site
+505,46,Outro,Divorciado,1000.0,Curitiba,SP,3,461.13,Alimentos,10,Não,Sim,14,Crédito,App
+506,20,F,Casado,3939.66,Belo Horizonte,MG,4,163.94,Roupas,46,Não,Sim,27,Boleto,App
+507,29,M,Casado,3853.93,Salvador,RJ,1,217.7,Cosméticos,42,Sim,Não,12,Débito,App
+508,43,M,Casado,6223.44,Salvador,SP,3,213.28,Alimentos,42,Sim,Não,13,Débito,App
+509,33,Outro,Solteiro,4576.25,Rio de Janeiro,BA,6,207.86,Roupas,52,Sim,Sim,65,Crédito,Loja Física
+510,68,Outro,Solteiro,2332.33,São Paulo,PR,3,312.13,Roupas,31,Não,Sim,33,Débito,Loja Física
+511,54,M,Solteiro,3427.22,Belo Horizonte,PR,1,344.81,Cosméticos,11,Não,Não,24,Débito,Site
+512,39,Outro,Divorciado,4654.84,Salvador,MG,3,219.4,Roupas,54,Sim,Não,53,Dinheiro,Site
+513,46,Outro,Divorciado,1000.0,Rio de Janeiro,SP,6,126.35,Utilidades,16,Não,Não,78,Pix,Loja Física
+514,31,Outro,Solteiro,6677.24,Curitiba,BA,4,377.44,Roupas,9,Sim,Sim,11,Crédito,Site
+515,45,F,Divorciado,2337.66,Salvador,SP,4,240.47,Utilidades,47,Não,Não,8,Crédito,Site
+516,22,F,Casado,6834.09,Rio de Janeiro,PR,1,423.03,Roupas,14,Não,Sim,30,Crédito,Loja Física
+517,64,Outro,Casado,4784.93,São Paulo,SP,5,30.0,Eletrônicos,19,Não,Sim,77,Dinheiro,App
+518,66,Outro,Casado,5259.19,São Paulo,BA,0,269.54,Roupas,31,Sim,Não,52,Dinheiro,Site
+519,47,F,Solteiro,6298.85,Salvador,MG,5,441.86,Utilidades,9,Sim,Sim,42,Boleto,Loja Física
+520,63,F,Divorciado,5146.26,Salvador,RJ,2,214.67,Roupas,36,Sim,Sim,37,Dinheiro,Loja Física
+521,69,M,Solteiro,5345.77,Belo Horizonte,SP,0,227.45,Roupas,53,Sim,Sim,41,Crédito,App
+522,22,M,Divorciado,3671.17,Rio de Janeiro,RJ,3,279.55,Roupas,39,Não,Sim,71,Boleto,App
+523,29,F,Casado,4744.34,Salvador,PR,6,194.12,Utilidades,54,Sim,Não,47,Pix,Site
+524,33,Outro,Solteiro,2825.0,Belo Horizonte,MG,3,218.79,Roupas,26,Sim,Não,66,Débito,Loja Física
+525,43,Outro,Divorciado,3313.18,Belo Horizonte,MG,2,216.22,Cosméticos,8,Não,Sim,65,Débito,App
+526,43,Outro,Divorciado,7929.39,Salvador,SP,2,187.26,Cosméticos,24,Sim,Não,15,Boleto,Site
+527,65,Outro,Casado,2383.61,São Paulo,MG,2,372.89,Utilidades,8,Sim,Não,82,Pix,App
+528,38,M,Solteiro,4308.63,Rio de Janeiro,SP,3,296.11,Eletrônicos,19,Sim,Não,15,Débito,App
+529,56,F,Solteiro,4226.94,Rio de Janeiro,SP,7,275.06,Cosméticos,47,Sim,Sim,30,Boleto,Loja Física
+530,53,Outro,Solteiro,3378.49,São Paulo,RJ,0,330.86,Alimentos,48,Sim,Não,57,Dinheiro,Site
+531,50,M,Casado,5028.8,Salvador,MG,3,223.56,Cosméticos,30,Não,Não,27,Crédito,Loja Física
+532,47,Outro,Solteiro,5179.44,Rio de Janeiro,SP,3,172.58,Alimentos,58,Sim,Sim,3,Pix,Loja Física
+533,54,F,Casado,2148.36,Salvador,RJ,4,189.74,Utilidades,22,Não,Sim,9,Débito,App
+534,40,M,Casado,4202.71,Salvador,BA,3,250.18,Eletrônicos,55,Sim,Sim,50,Crédito,App
+535,27,F,Casado,1835.27,Belo Horizonte,RJ,3,144.08,Alimentos,9,Sim,Não,17,Boleto,App
+536,22,F,Divorciado,5577.1,São Paulo,RJ,3,199.97,Alimentos,58,Sim,Sim,46,Débito,Site
+537,53,M,Solteiro,4352.97,Salvador,SP,3,198.39,Cosméticos,58,Sim,Não,31,Crédito,Loja Física
+538,51,M,Solteiro,4164.66,Curitiba,PR,7,462.46,Alimentos,44,Sim,Sim,29,Dinheiro,Loja Física
+539,69,M,Casado,5318.06,São Paulo,PR,2,30.0,Utilidades,48,Sim,Não,35,Pix,Loja Física
+540,48,M,Casado,3448.98,Rio de Janeiro,PR,2,232.04,Utilidades,4,Sim,Sim,8,Boleto,Site
+541,27,M,Solteiro,5828.04,Belo Horizonte,RJ,3,422.57,Utilidades,37,Sim,Não,35,Débito,Site
+542,36,M,Casado,2103.11,Rio de Janeiro,SP,3,262.18,Cosméticos,8,Sim,Não,28,Dinheiro,Loja Física
+543,49,M,Solteiro,6823.75,Rio de Janeiro,MG,4,325.34,Eletrônicos,1,Sim,Sim,15,Pix,App
+544,18,Outro,Divorciado,2898.18,São Paulo,RJ,2,259.98,Cosméticos,28,Não,Sim,20,Pix,Loja Física
+545,22,F,Casado,1000.0,Rio de Janeiro,RJ,3,183.27,Utilidades,6,Não,Sim,63,Dinheiro,App
+546,62,M,Solteiro,3342.93,Salvador,SP,3,30.0,Cosméticos,47,Sim,Não,65,Débito,Site
+547,21,Outro,Casado,3116.06,Rio de Janeiro,BA,3,270.55,Utilidades,36,Sim,Não,58,Pix,Loja Física
+548,33,Outro,Solteiro,3327.85,Belo Horizonte,RJ,2,172.44,Roupas,53,Não,Sim,27,Boleto,App
+549,41,Outro,Solteiro,4463.3,Belo Horizonte,BA,3,169.97,Roupas,11,Sim,Sim,54,Crédito,App
+550,33,F,Casado,6195.68,Curitiba,BA,1,200.1,Alimentos,5,Não,Sim,30,Boleto,Site
+551,19,M,Divorciado,3616.59,Belo Horizonte,PR,5,424.49,Eletrônicos,50,Sim,Não,32,Pix,Site
+552,66,Outro,Solteiro,2616.76,Rio de Janeiro,SP,4,490.48,Roupas,24,Não,Não,86,Crédito,Loja Física
+553,45,F,Solteiro,1746.91,Belo Horizonte,BA,3,271.72,Utilidades,47,Sim,Não,59,Dinheiro,Site
+554,49,F,Solteiro,3063.63,São Paulo,SP,4,203.52,Cosméticos,18,Não,Sim,40,Crédito,App
+555,44,F,Divorciado,1000.0,Belo Horizonte,PR,3,132.28,Cosméticos,20,Sim,Sim,80,Crédito,Loja Física
+556,37,Outro,Divorciado,2549.73,Salvador,SP,3,296.85,Alimentos,28,Sim,Não,45,Crédito,Loja Física
+557,41,M,Casado,6488.11,São Paulo,RJ,4,428.29,Cosméticos,13,Sim,Sim,48,Pix,App
+558,29,Outro,Divorciado,2353.28,Curitiba,BA,3,225.27,Roupas,5,Sim,Não,64,Débito,Loja Física
+559,67,Outro,Casado,5257.43,Salvador,SP,4,30.0,Cosméticos,30,Não,Sim,41,Pix,Site
+560,52,M,Casado,1547.04,Rio de Janeiro,MG,2,317.0,Roupas,1,Sim,Sim,22,Débito,Site
+561,50,M,Divorciado,7542.19,Rio de Janeiro,SP,5,348.54,Roupas,22,Não,Não,26,Dinheiro,Site
+562,50,M,Casado,7675.21,Rio de Janeiro,BA,4,91.42,Eletrônicos,18,Sim,Não,88,Dinheiro,Site
+563,68,F,Divorciado,5182.04,Salvador,PR,2,267.65,Alimentos,46,Não,Não,31,Dinheiro,Loja Física
+564,60,M,Casado,7982.51,Salvador,PR,3,295.12,Utilidades,5,Sim,Sim,82,Dinheiro,Loja Física
+565,54,Outro,Divorciado,4711.59,Salvador,BA,4,242.69,Roupas,31,Não,Sim,87,Dinheiro,App
+566,29,M,Divorciado,5537.03,São Paulo,RJ,4,170.92,Alimentos,6,Não,Não,2,Boleto,App
+567,20,Outro,Casado,6523.87,São Paulo,RJ,4,351.59,Utilidades,27,Sim,Não,59,Pix,Site
+568,18,F,Solteiro,4359.44,Rio de Janeiro,PR,5,209.66,Cosméticos,56,Não,Não,75,Débito,Site
+569,50,Outro,Casado,1000.0,Belo Horizonte,PR,2,101.48,Alimentos,25,Não,Sim,78,Dinheiro,Loja Física
+570,57,Outro,Divorciado,5577.93,Rio de Janeiro,BA,3,45.05,Alimentos,29,Sim,Não,16,Boleto,Loja Física
+571,27,M,Solteiro,3056.28,Curitiba,RJ,3,376.08,Alimentos,28,Sim,Não,31,Boleto,App
+572,60,M,Casado,3204.94,São Paulo,PR,3,311.67,Cosméticos,16,Sim,Não,6,Boleto,Site
+573,61,Outro,Casado,4595.79,Salvador,RJ,2,258.8,Cosméticos,54,Não,Não,82,Pix,Loja Física
+574,46,M,Casado,5132.56,São Paulo,PR,3,205.97,Alimentos,53,Sim,Sim,70,Dinheiro,Loja Física
+575,30,F,Solteiro,4300.27,Salvador,SP,2,197.1,Eletrônicos,12,Sim,Não,68,Boleto,Loja Física
+576,29,F,Divorciado,5271.46,Curitiba,MG,6,142.43,Roupas,20,Sim,Não,57,Boleto,Loja Física
+577,48,M,Casado,2586.29,Curitiba,SP,4,206.85,Cosméticos,18,Sim,Não,39,Dinheiro,App
+578,63,F,Casado,3914.59,São Paulo,PR,2,37.99,Eletrônicos,34,Não,Não,84,Pix,App
+579,19,M,Casado,5698.17,Salvador,MG,1,176.39,Cosméticos,55,Não,Não,47,Boleto,App
+580,68,Outro,Casado,7545.58,Curitiba,MG,4,218.91,Alimentos,53,Sim,Não,50,Débito,App
+581,67,Outro,Casado,8252.87,Rio de Janeiro,PR,4,310.99,Eletrônicos,23,Sim,Sim,56,Crédito,App
+582,52,F,Divorciado,4865.95,Rio de Janeiro,PR,2,246.01,Utilidades,45,Não,Sim,70,Crédito,Site
+583,40,M,Divorciado,5680.02,Salvador,RJ,6,329.49,Roupas,27,Sim,Sim,36,Crédito,Loja Física
+584,34,M,Casado,7963.16,São Paulo,PR,3,384.91,Roupas,49,Sim,Sim,86,Pix,App
+585,43,F,Solteiro,2658.33,Curitiba,BA,0,355.82,Cosméticos,17,Sim,Sim,74,Boleto,Loja Física
+586,25,Outro,Divorciado,5259.4,São Paulo,PR,3,297.05,Roupas,48,Sim,Sim,73,Crédito,Loja Física
+587,46,F,Solteiro,5536.69,Rio de Janeiro,BA,1,251.19,Utilidades,21,Sim,Sim,84,Crédito,Loja Física
+588,43,Outro,Divorciado,6895.72,Curitiba,PR,2,151.92,Eletrônicos,50,Não,Sim,54,Dinheiro,Site
+589,27,M,Casado,1725.72,São Paulo,RJ,3,323.99,Eletrônicos,40,Sim,Sim,40,Boleto,Loja Física
+590,43,Outro,Divorciado,2121.19,Belo Horizonte,BA,2,417.97,Alimentos,31,Não,Sim,19,Boleto,Loja Física
+591,51,F,Casado,4042.76,Salvador,SP,3,284.21,Eletrônicos,3,Sim,Não,32,Dinheiro,Site
+592,68,M,Divorciado,4755.46,Salvador,BA,3,441.73,Cosméticos,17,Sim,Não,39,Boleto,App
+593,58,F,Casado,6245.73,Belo Horizonte,RJ,2,97.44,Utilidades,50,Não,Sim,33,Débito,Site
+594,24,F,Casado,5035.09,Rio de Janeiro,BA,5,134.58,Alimentos,58,Sim,Não,61,Pix,App
+595,21,Outro,Casado,3697.17,Curitiba,PR,1,335.52,Cosméticos,26,Sim,Não,18,Dinheiro,Loja Física
+596,67,F,Casado,4832.92,Salvador,PR,3,276.43,Cosméticos,23,Sim,Sim,42,Crédito,Loja Física
+597,62,Outro,Solteiro,4602.09,Belo Horizonte,RJ,3,381.38,Cosméticos,6,Sim,Não,68,Boleto,Site
+598,28,M,Casado,7490.03,Belo Horizonte,MG,3,248.45,Roupas,28,Não,Não,62,Débito,Site
+599,46,Outro,Solteiro,4331.32,Rio de Janeiro,PR,4,163.2,Cosméticos,8,Sim,Não,9,Débito,Site
+600,53,M,Solteiro,3233.83,Rio de Janeiro,SP,4,228.64,Roupas,55,Não,Sim,12,Pix,App
+601,42,Outro,Casado,4899.22,São Paulo,RJ,1,96.73,Eletrônicos,58,Sim,Não,4,Débito,App
+602,38,F,Solteiro,4396.97,Salvador,BA,4,137.14,Roupas,45,Sim,Sim,57,Boleto,App
+603,53,Outro,Divorciado,1000.0,São Paulo,BA,2,347.24,Cosméticos,8,Não,Não,58,Boleto,Loja Física
+604,27,Outro,Casado,3968.7,Belo Horizonte,SP,1,337.28,Utilidades,19,Não,Não,75,Débito,Loja Física
+605,54,M,Solteiro,3798.52,Curitiba,PR,3,286.3,Utilidades,38,Sim,Não,58,Boleto,Site
+606,26,F,Casado,2912.26,Curitiba,RJ,4,77.89,Eletrônicos,29,Sim,Não,76,Boleto,Loja Física
+607,41,Outro,Casado,6071.17,Rio de Janeiro,SP,0,214.16,Cosméticos,23,Sim,Sim,85,Crédito,Loja Física
+608,52,F,Casado,2428.64,Curitiba,PR,4,127.5,Roupas,47,Sim,Não,14,Dinheiro,Loja Física
+609,66,Outro,Solteiro,4911.24,Curitiba,RJ,3,367.65,Utilidades,32,Não,Não,76,Boleto,Loja Física
+610,52,Outro,Divorciado,3704.29,Curitiba,BA,4,191.63,Alimentos,10,Não,Sim,0,Boleto,Loja Física
+611,65,F,Divorciado,4215.39,Belo Horizonte,RJ,0,141.43,Cosméticos,27,Sim,Não,37,Pix,Loja Física
+612,53,Outro,Solteiro,4823.57,Curitiba,MG,2,252.98,Cosméticos,49,Não,Sim,52,Dinheiro,Site
+613,35,F,Casado,1384.85,Curitiba,RJ,6,185.98,Alimentos,1,Sim,Sim,51,Dinheiro,Site
+614,66,Outro,Solteiro,4383.32,Curitiba,MG,4,398.37,Utilidades,39,Sim,Não,0,Dinheiro,App
+615,56,M,Solteiro,8577.89,São Paulo,RJ,4,176.52,Alimentos,29,Sim,Sim,10,Débito,Site
+616,49,F,Solteiro,1000.0,Belo Horizonte,MG,2,110.08,Eletrônicos,59,Não,Não,57,Crédito,Loja Física
+617,41,Outro,Casado,3884.78,Rio de Janeiro,BA,1,34.71,Roupas,45,Não,Sim,39,Crédito,Loja Física
+618,40,Outro,Solteiro,6246.48,São Paulo,PR,2,246.92,Roupas,3,Sim,Sim,85,Pix,Loja Física
+619,49,M,Casado,4603.24,Salvador,MG,3,193.81,Utilidades,51,Sim,Não,59,Dinheiro,App
+620,54,F,Solteiro,5375.93,Belo Horizonte,MG,2,107.11,Alimentos,47,Não,Sim,43,Dinheiro,App
+621,29,Outro,Divorciado,1000.0,Belo Horizonte,BA,4,368.92,Cosméticos,37,Sim,Não,5,Boleto,Loja Física
+622,66,M,Solteiro,5196.5,Salvador,MG,3,316.72,Cosméticos,31,Sim,Não,27,Débito,Loja Física
+623,30,Outro,Solteiro,2476.62,Salvador,SP,3,247.18,Cosméticos,11,Não,Não,30,Débito,App
+624,40,F,Divorciado,4619.75,Salvador,BA,1,386.43,Eletrônicos,22,Não,Não,7,Pix,Site
+625,42,Outro,Casado,3941.13,Rio de Janeiro,SP,3,316.25,Eletrônicos,18,Sim,Não,4,Crédito,App
+626,52,Outro,Casado,8556.67,Curitiba,BA,4,167.71,Cosméticos,35,Sim,Sim,53,Dinheiro,Loja Física
+627,58,Outro,Solteiro,5093.39,Belo Horizonte,MG,3,146.08,Utilidades,6,Sim,Não,16,Pix,Loja Física
+628,47,Outro,Divorciado,3774.75,Curitiba,SP,2,331.8,Eletrônicos,3,Sim,Sim,37,Débito,App
+629,34,M,Casado,1000.0,Curitiba,MG,2,289.64,Eletrônicos,5,Não,Não,8,Débito,Site
+630,66,M,Solteiro,4242.29,Salvador,BA,4,266.97,Roupas,9,Sim,Não,73,Débito,Site
+631,37,F,Divorciado,5646.46,Rio de Janeiro,MG,1,165.35,Roupas,28,Não,Não,83,Dinheiro,Site
+632,65,M,Casado,3838.9,São Paulo,SP,4,310.79,Utilidades,19,Sim,Não,77,Dinheiro,Site
+633,42,M,Casado,2988.69,Rio de Janeiro,SP,1,174.45,Eletrônicos,28,Sim,Não,13,Dinheiro,App
+634,39,F,Divorciado,2854.83,Curitiba,MG,2,239.8,Eletrônicos,27,Sim,Não,25,Boleto,Loja Física
+635,30,M,Divorciado,5070.28,Rio de Janeiro,RJ,1,394.69,Alimentos,13,Não,Não,61,Crédito,Loja Física
+636,36,M,Divorciado,5518.78,Salvador,BA,1,183.92,Utilidades,38,Sim,Sim,24,Débito,App
+637,66,F,Divorciado,6722.42,São Paulo,BA,2,92.7,Utilidades,43,Sim,Sim,79,Débito,Loja Física
+638,53,F,Solteiro,2010.0,Salvador,MG,4,144.75,Alimentos,53,Sim,Sim,35,Boleto,Site
+639,29,F,Divorciado,5051.96,São Paulo,RJ,3,349.43,Alimentos,21,Sim,Não,79,Débito,App
+640,58,Outro,Casado,3756.59,Curitiba,SP,4,275.47,Roupas,27,Sim,Sim,32,Débito,App
+641,36,Outro,Casado,3815.53,São Paulo,PR,2,237.11,Utilidades,46,Sim,Sim,2,Dinheiro,Site
+642,29,F,Solteiro,4803.65,São Paulo,PR,3,199.09,Utilidades,6,Sim,Sim,86,Dinheiro,Site
+643,26,F,Casado,4815.31,São Paulo,MG,5,298.54,Alimentos,38,Sim,Não,10,Crédito,App
+644,24,F,Casado,5057.54,Rio de Janeiro,RJ,5,165.09,Cosméticos,49,Sim,Não,57,Débito,App
+645,45,Outro,Divorciado,1885.06,Rio de Janeiro,RJ,3,280.57,Cosméticos,11,Sim,Sim,63,Pix,App
+646,31,Outro,Casado,2500.38,Curitiba,BA,4,176.87,Roupas,47,Sim,Sim,17,Débito,Site
+647,48,M,Solteiro,6971.74,São Paulo,SP,4,160.23,Cosméticos,41,Sim,Sim,46,Débito,Loja Física
+648,69,M,Divorciado,3558.86,Belo Horizonte,RJ,3,186.25,Cosméticos,53,Sim,Sim,43,Crédito,Site
+649,36,F,Divorciado,4612.03,Curitiba,PR,2,212.46,Cosméticos,17,Não,Sim,58,Pix,App
+650,64,Outro,Solteiro,6109.33,São Paulo,SP,3,245.12,Eletrônicos,56,Sim,Não,49,Débito,App
+651,33,Outro,Divorciado,4926.89,São Paulo,SP,3,273.55,Roupas,39,Sim,Não,68,Pix,Loja Física
+652,22,Outro,Divorciado,5093.05,Rio de Janeiro,MG,5,30.0,Alimentos,7,Sim,Sim,87,Dinheiro,Site
+653,52,F,Solteiro,5789.16,Curitiba,RJ,3,169.23,Cosméticos,30,Não,Sim,28,Dinheiro,Site
+654,29,M,Divorciado,1000.0,São Paulo,MG,2,210.84,Eletrônicos,21,Não,Sim,89,Pix,App
+655,42,F,Solteiro,3020.1,São Paulo,RJ,4,400.51,Cosméticos,1,Sim,Sim,66,Débito,Site
+656,69,M,Solteiro,4937.21,Curitiba,BA,4,142.0,Eletrônicos,25,Sim,Sim,1,Pix,Site
+657,38,M,Casado,6775.29,Belo Horizonte,MG,1,266.28,Roupas,32,Sim,Sim,24,Pix,Loja Física
+658,53,F,Casado,4132.19,Curitiba,MG,5,399.5,Cosméticos,59,Não,Sim,18,Dinheiro,Site
+659,40,M,Divorciado,2310.57,Curitiba,PR,2,118.7,Eletrônicos,57,Não,Não,39,Pix,Loja Física
+660,33,M,Divorciado,2363.83,Belo Horizonte,MG,1,289.4,Utilidades,8,Sim,Não,1,Boleto,App
+661,56,Outro,Solteiro,5767.72,Curitiba,RJ,2,169.77,Utilidades,5,Não,Não,82,Boleto,App
+662,62,M,Divorciado,3564.45,São Paulo,PR,5,199.54,Eletrônicos,30,Não,Sim,64,Dinheiro,Site
+663,59,F,Solteiro,3985.6,Curitiba,MG,4,169.69,Cosméticos,51,Sim,Não,61,Débito,Site
+664,56,F,Solteiro,5230.06,Belo Horizonte,MG,5,176.81,Cosméticos,8,Sim,Não,53,Débito,App
+665,31,M,Divorciado,1000.0,Salvador,BA,4,522.19,Roupas,49,Sim,Sim,44,Dinheiro,Loja Física
+666,48,Outro,Solteiro,8000.74,Curitiba,MG,1,334.45,Roupas,19,Sim,Sim,48,Débito,Loja Física
+667,22,Outro,Casado,2537.85,Rio de Janeiro,SP,2,360.17,Alimentos,44,Não,Não,68,Crédito,App
+668,52,M,Divorciado,4483.87,São Paulo,PR,1,299.2,Roupas,59,Sim,Sim,37,Boleto,App
+669,40,M,Casado,1000.0,São Paulo,SP,4,89.37,Cosméticos,55,Não,Sim,3,Crédito,App
+670,46,F,Divorciado,3154.92,Rio de Janeiro,PR,2,289.5,Alimentos,30,Não,Não,16,Crédito,Loja Física
+671,60,M,Solteiro,6489.38,Rio de Janeiro,BA,2,357.29,Roupas,15,Sim,Não,52,Crédito,Loja Física
+672,28,Outro,Divorciado,1000.0,Curitiba,MG,3,164.66,Eletrônicos,36,Sim,Sim,84,Dinheiro,Loja Física
+673,35,M,Casado,6252.4,Rio de Janeiro,MG,4,346.53,Utilidades,55,Não,Não,52,Crédito,Loja Física
+674,64,F,Solteiro,3452.61,Salvador,MG,2,320.43,Roupas,44,Não,Não,30,Pix,App
+675,29,F,Divorciado,4974.33,Belo Horizonte,PR,3,435.2,Roupas,27,Não,Sim,21,Débito,Loja Física
+676,26,F,Divorciado,5315.05,Rio de Janeiro,MG,4,208.22,Eletrônicos,13,Sim,Não,10,Dinheiro,App
+677,27,F,Divorciado,4882.84,Rio de Janeiro,SP,2,140.24,Cosméticos,14,Sim,Sim,33,Pix,Loja Física
+678,61,F,Casado,2270.1,Salvador,MG,3,213.84,Eletrônicos,37,Sim,Sim,14,Pix,Loja Física
+679,34,M,Casado,3270.9,São Paulo,BA,2,393.56,Roupas,54,Não,Não,9,Boleto,App
+680,55,M,Divorciado,1076.89,São Paulo,SP,5,67.16,Cosméticos,48,Sim,Sim,52,Boleto,Loja Física
+681,24,M,Solteiro,4983.59,Curitiba,MG,7,43.16,Alimentos,30,Não,Sim,47,Pix,Loja Física
+682,63,M,Solteiro,7404.11,Salvador,MG,4,258.94,Roupas,39,Sim,Sim,30,Boleto,Loja Física
+683,30,F,Casado,1000.0,Belo Horizonte,RJ,2,205.74,Eletrônicos,47,Não,Não,36,Débito,Loja Física
+684,57,Outro,Solteiro,2476.71,Belo Horizonte,PR,0,250.77,Alimentos,13,Sim,Não,27,Débito,Site
+685,59,M,Casado,3636.45,Salvador,SP,3,344.53,Utilidades,58,Sim,Sim,30,Boleto,Loja Física
+686,26,Outro,Divorciado,4346.68,Belo Horizonte,RJ,3,194.74,Alimentos,16,Sim,Não,69,Crédito,Site
+687,67,M,Casado,5758.35,São Paulo,BA,2,62.7,Eletrônicos,44,Sim,Sim,13,Pix,App
+688,44,M,Casado,3695.6,Belo Horizonte,PR,1,454.45,Alimentos,7,Sim,Não,86,Débito,Site
+689,19,Outro,Divorciado,3368.08,Belo Horizonte,SP,7,150.28,Eletrônicos,48,Sim,Sim,15,Boleto,Loja Física
+690,22,F,Solteiro,6206.26,Salvador,MG,4,144.1,Roupas,55,Sim,Não,24,Boleto,Site
+691,46,M,Casado,5323.99,Salvador,SP,7,360.37,Cosméticos,55,Sim,Não,38,Débito,Loja Física
+692,54,M,Casado,5077.96,Belo Horizonte,MG,4,211.55,Utilidades,27,Não,Não,65,Débito,Site
+693,55,M,Divorciado,4225.03,Rio de Janeiro,PR,2,243.66,Cosméticos,45,Sim,Sim,37,Crédito,Site
+694,36,Outro,Solteiro,5966.3,Salvador,MG,2,298.28,Cosméticos,55,Sim,Não,40,Boleto,Loja Física
+695,25,F,Casado,2687.38,Curitiba,BA,4,358.36,Cosméticos,35,Não,Sim,39,Boleto,App
+696,65,Outro,Divorciado,2414.61,Curitiba,MG,2,216.65,Eletrônicos,15,Sim,Não,63,Dinheiro,App
+697,62,Outro,Casado,5492.2,São Paulo,BA,5,402.0,Eletrônicos,28,Não,Sim,88,Crédito,App
+698,18,F,Divorciado,1000.0,Belo Horizonte,PR,4,36.42,Utilidades,35,Sim,Sim,15,Débito,Loja Física
+699,39,Outro,Solteiro,4184.36,Rio de Janeiro,PR,0,325.98,Eletrônicos,7,Sim,Sim,81,Débito,Site
+700,69,F,Solteiro,3366.88,São Paulo,SP,0,166.05,Eletrônicos,50,Sim,Sim,76,Pix,App
+701,34,M,Solteiro,1188.49,Belo Horizonte,BA,4,387.23,Eletrônicos,46,Sim,Não,58,Débito,Loja Física
+702,24,F,Solteiro,2137.46,Salvador,BA,2,264.2,Eletrônicos,50,Sim,Não,10,Boleto,App
+703,42,M,Casado,3782.05,Curitiba,RJ,2,182.71,Roupas,51,Sim,Não,0,Débito,Loja Física
+704,62,Outro,Casado,6067.93,Rio de Janeiro,RJ,5,316.28,Utilidades,46,Sim,Não,12,Boleto,Loja Física
+705,21,Outro,Solteiro,2694.08,Curitiba,RJ,3,339.32,Eletrônicos,20,Sim,Não,29,Boleto,App
+706,53,M,Solteiro,6426.76,Salvador,MG,4,314.19,Utilidades,32,Sim,Sim,68,Crédito,App
+707,23,Outro,Solteiro,4126.36,Belo Horizonte,RJ,0,147.03,Alimentos,38,Sim,Sim,17,Débito,App
+708,48,F,Casado,6620.77,Salvador,BA,2,201.6,Roupas,40,Sim,Sim,77,Crédito,App
+709,36,M,Solteiro,2791.02,Salvador,MG,3,249.59,Eletrônicos,32,Sim,Sim,12,Boleto,Loja Física
+710,61,Outro,Solteiro,3902.38,Curitiba,PR,3,245.87,Roupas,26,Sim,Sim,31,Débito,Loja Física
+711,56,M,Solteiro,4736.97,Rio de Janeiro,SP,2,324.97,Roupas,58,Sim,Sim,70,Débito,App
+712,44,F,Divorciado,3640.98,Salvador,RJ,3,48.51,Alimentos,39,Sim,Sim,71,Crédito,Loja Física
+713,27,F,Solteiro,5906.05,Curitiba,PR,2,283.43,Utilidades,20,Sim,Sim,49,Crédito,Site
+714,43,Outro,Divorciado,1000.0,Rio de Janeiro,BA,2,221.0,Roupas,18,Sim,Não,70,Boleto,Site
+715,36,F,Divorciado,8844.81,Belo Horizonte,SP,4,166.15,Cosméticos,50,Sim,Sim,79,Boleto,Loja Física
+716,56,M,Solteiro,5715.55,Belo Horizonte,PR,4,175.75,Alimentos,15,Sim,Não,30,Débito,Loja Física
+717,20,F,Divorciado,3652.94,São Paulo,SP,1,228.55,Cosméticos,52,Sim,Não,50,Débito,Site
+718,62,M,Solteiro,2895.36,Curitiba,RJ,4,30.0,Alimentos,22,Sim,Não,26,Dinheiro,App
+719,30,M,Casado,2267.16,Rio de Janeiro,BA,1,179.87,Cosméticos,51,Sim,Sim,59,Dinheiro,App
+720,67,F,Casado,5291.23,Salvador,SP,5,162.42,Cosméticos,22,Sim,Sim,32,Pix,Site
+721,45,Outro,Casado,5989.96,Belo Horizonte,PR,1,303.28,Roupas,53,Sim,Sim,52,Boleto,Site
+722,37,F,Casado,3674.95,Rio de Janeiro,RJ,4,169.45,Roupas,21,Não,Sim,71,Pix,Loja Física
+723,45,M,Divorciado,6213.98,Curitiba,RJ,3,228.49,Alimentos,2,Não,Sim,32,Pix,Loja Física
+724,25,M,Solteiro,2185.48,São Paulo,PR,2,404.23,Utilidades,40,Sim,Não,40,Crédito,Site
+725,58,F,Solteiro,1832.38,Belo Horizonte,PR,2,349.44,Roupas,53,Sim,Não,18,Crédito,Loja Física
+726,56,Outro,Solteiro,7626.68,Rio de Janeiro,SP,1,340.23,Roupas,43,Sim,Não,84,Dinheiro,Loja Física
+727,18,Outro,Casado,5182.22,Rio de Janeiro,MG,2,200.01,Eletrônicos,18,Não,Sim,40,Pix,Site
+728,20,M,Casado,6793.7,Rio de Janeiro,RJ,1,304.3,Roupas,23,Sim,Sim,84,Dinheiro,Site
+729,30,M,Solteiro,2292.12,Curitiba,SP,3,226.61,Utilidades,13,Não,Não,88,Boleto,Loja Física
+730,45,Outro,Casado,2152.95,Curitiba,PR,1,230.39,Eletrônicos,41,Sim,Sim,41,Débito,Site
+731,66,F,Solteiro,3282.78,Curitiba,SP,1,290.97,Cosméticos,9,Sim,Não,22,Crédito,Site
+732,42,M,Solteiro,2351.88,Salvador,PR,2,190.3,Cosméticos,49,Sim,Não,74,Boleto,Loja Física
+733,50,M,Solteiro,5410.73,Rio de Janeiro,BA,5,399.3,Eletrônicos,7,Sim,Sim,32,Boleto,App
+734,55,Outro,Solteiro,2497.75,Belo Horizonte,PR,6,233.99,Eletrônicos,41,Sim,Sim,19,Crédito,Loja Física
+735,23,F,Solteiro,1656.66,Curitiba,PR,2,311.84,Eletrônicos,54,Sim,Sim,24,Crédito,App
+736,61,Outro,Solteiro,4284.03,Curitiba,PR,3,395.56,Alimentos,1,Sim,Sim,89,Pix,Loja Física
+737,62,F,Solteiro,1420.03,Rio de Janeiro,MG,5,353.17,Utilidades,2,Não,Sim,51,Dinheiro,App
+738,49,F,Casado,1000.0,Curitiba,PR,5,109.11,Utilidades,4,Sim,Sim,11,Boleto,Loja Física
+739,62,F,Solteiro,4266.51,Salvador,RJ,0,294.49,Cosméticos,14,Sim,Sim,31,Pix,App
+740,64,M,Solteiro,1000.0,Salvador,RJ,3,335.07,Cosméticos,32,Sim,Não,32,Pix,Loja Física
+741,38,Outro,Casado,5550.56,Curitiba,SP,3,339.19,Cosméticos,36,Não,Não,73,Boleto,App
+742,33,Outro,Casado,1209.33,Rio de Janeiro,MG,1,138.67,Roupas,2,Não,Sim,67,Boleto,Site
+743,38,F,Casado,1000.0,Rio de Janeiro,SP,1,184.3,Cosméticos,40,Sim,Não,14,Débito,Loja Física
+744,28,M,Solteiro,3412.41,Rio de Janeiro,RJ,0,349.46,Eletrônicos,50,Sim,Não,50,Dinheiro,App
+745,54,M,Divorciado,4289.19,São Paulo,RJ,3,173.82,Cosméticos,51,Sim,Não,5,Boleto,Loja Física
+746,53,Outro,Divorciado,4982.95,Curitiba,BA,2,220.03,Eletrônicos,14,Sim,Não,68,Crédito,App
+747,52,M,Casado,4344.03,Rio de Janeiro,PR,1,407.59,Alimentos,20,Sim,Sim,68,Débito,Loja Física
+748,36,M,Divorciado,1881.37,Salvador,RJ,6,245.22,Roupas,25,Não,Sim,81,Dinheiro,Site
+749,37,F,Casado,5426.12,Belo Horizonte,SP,0,177.32,Roupas,42,Sim,Não,34,Crédito,App
+750,35,M,Solteiro,5920.28,Belo Horizonte,SP,1,162.24,Utilidades,49,Sim,Não,85,Crédito,Loja Física
+751,64,F,Divorciado,1588.48,Rio de Janeiro,PR,3,283.27,Alimentos,8,Sim,Não,33,Dinheiro,Loja Física
+752,58,Outro,Solteiro,3637.99,Belo Horizonte,PR,2,116.69,Eletrônicos,28,Não,Não,62,Débito,App
+753,66,M,Divorciado,3451.12,Belo Horizonte,BA,2,225.27,Alimentos,46,Sim,Não,67,Crédito,App
+754,31,Outro,Solteiro,4440.76,São Paulo,MG,6,283.32,Roupas,21,Sim,Sim,17,Pix,App
+755,32,Outro,Divorciado,3590.15,Salvador,SP,3,379.91,Eletrônicos,23,Sim,Sim,25,Dinheiro,Loja Física
+756,48,M,Solteiro,3864.24,Salvador,PR,1,316.75,Alimentos,32,Sim,Sim,85,Dinheiro,Site
+757,18,M,Solteiro,5283.63,São Paulo,SP,3,178.59,Roupas,8,Não,Não,60,Boleto,Loja Física
+758,20,Outro,Divorciado,1772.29,São Paulo,PR,4,367.84,Eletrônicos,31,Sim,Não,77,Débito,Loja Física
+759,33,M,Solteiro,5474.75,Belo Horizonte,RJ,0,220.05,Eletrônicos,37,Não,Não,73,Pix,App
+760,40,F,Solteiro,6282.27,Curitiba,SP,2,126.43,Roupas,16,Sim,Não,87,Pix,Loja Física
+761,28,F,Solteiro,7268.27,Belo Horizonte,RJ,1,232.8,Eletrônicos,40,Sim,Não,84,Boleto,Site
+762,29,M,Divorciado,1000.0,São Paulo,SP,3,393.82,Roupas,42,Não,Não,47,Crédito,Site
+763,27,Outro,Divorciado,3634.2,Salvador,MG,5,266.52,Cosméticos,27,Sim,Não,71,Crédito,App
+764,49,M,Solteiro,1000.0,Belo Horizonte,BA,4,251.25,Cosméticos,40,Sim,Sim,30,Pix,App
+765,33,M,Solteiro,1000.0,Curitiba,RJ,2,413.72,Eletrônicos,41,Sim,Não,33,Débito,Site
+766,25,Outro,Divorciado,4288.19,Belo Horizonte,PR,3,106.86,Eletrônicos,18,Sim,Não,86,Crédito,Site
+767,55,Outro,Divorciado,3201.7,Rio de Janeiro,MG,3,121.44,Roupas,35,Sim,Sim,88,Dinheiro,App
+768,29,F,Solteiro,4599.7,Belo Horizonte,SP,5,88.42,Eletrônicos,49,Não,Sim,6,Boleto,Site
+769,41,Outro,Solteiro,4972.26,São Paulo,RJ,1,287.26,Utilidades,52,Não,Não,82,Débito,Loja Física
+770,45,F,Solteiro,6495.79,Salvador,SP,4,266.65,Cosméticos,15,Sim,Sim,6,Crédito,Loja Física
+771,25,Outro,Casado,4107.84,Salvador,SP,0,404.27,Eletrônicos,53,Sim,Sim,46,Pix,Loja Física
+772,45,M,Divorciado,9846.71,São Paulo,SP,2,274.35,Eletrônicos,27,Sim,Sim,7,Boleto,Site
+773,53,F,Casado,4612.82,Rio de Janeiro,BA,2,209.58,Alimentos,17,Sim,Não,77,Crédito,App
+774,43,F,Divorciado,7684.96,São Paulo,BA,1,250.18,Eletrônicos,40,Sim,Não,0,Pix,Loja Física
+775,25,F,Divorciado,1000.0,Belo Horizonte,PR,4,261.77,Utilidades,2,Sim,Sim,76,Crédito,Loja Física
+776,67,M,Divorciado,6699.48,São Paulo,RJ,5,82.82,Cosméticos,49,Sim,Sim,2,Boleto,App
+777,45,M,Divorciado,3638.48,São Paulo,MG,2,521.03,Alimentos,50,Sim,Não,52,Dinheiro,App
+778,45,M,Divorciado,1000.0,Rio de Janeiro,MG,4,301.99,Roupas,31,Sim,Não,37,Dinheiro,Site
+779,54,M,Divorciado,4841.09,Belo Horizonte,MG,4,271.0,Roupas,37,Sim,Não,50,Pix,Loja Física
+780,58,M,Divorciado,3394.09,Curitiba,SP,2,311.52,Cosméticos,41,Não,Sim,14,Dinheiro,Loja Física
+781,53,F,Casado,5160.11,Curitiba,BA,2,320.94,Roupas,41,Sim,Sim,66,Boleto,Loja Física
+782,44,M,Solteiro,6022.15,Salvador,RJ,3,235.94,Utilidades,34,Sim,Sim,63,Pix,Loja Física
+783,34,F,Solteiro,1021.7,São Paulo,SP,3,186.88,Eletrônicos,34,Sim,Não,67,Crédito,Loja Física
+784,26,M,Casado,6029.84,Salvador,BA,3,309.95,Cosméticos,51,Sim,Sim,4,Débito,Site
+785,50,Outro,Casado,4012.96,Rio de Janeiro,BA,4,288.57,Alimentos,55,Sim,Sim,89,Crédito,Loja Física
+786,37,F,Casado,6705.68,Curitiba,RJ,5,169.01,Eletrônicos,59,Sim,Sim,88,Boleto,Loja Física
+787,30,Outro,Casado,3589.7,São Paulo,RJ,4,391.9,Roupas,3,Não,Sim,9,Pix,Loja Física
+788,45,F,Divorciado,3059.18,Rio de Janeiro,RJ,4,279.34,Roupas,17,Sim,Não,7,Crédito,Site
+789,65,Outro,Solteiro,4054.11,Rio de Janeiro,SP,2,322.98,Alimentos,14,Sim,Sim,11,Pix,Site
+790,46,M,Divorciado,4203.72,São Paulo,PR,2,389.19,Utilidades,14,Sim,Não,63,Dinheiro,Site
+791,30,M,Solteiro,2674.43,Rio de Janeiro,RJ,5,252.19,Alimentos,46,Não,Não,58,Débito,Loja Física
+792,63,M,Solteiro,3007.39,São Paulo,PR,2,281.7,Cosméticos,38,Não,Sim,66,Boleto,Loja Física
+793,52,F,Casado,1546.25,São Paulo,SP,1,331.0,Alimentos,35,Não,Não,49,Crédito,Loja Física
+794,23,Outro,Divorciado,3130.71,Belo Horizonte,PR,2,177.51,Roupas,1,Sim,Não,22,Débito,Loja Física
+795,35,M,Casado,5352.62,Salvador,MG,4,255.41,Utilidades,48,Não,Não,39,Boleto,App
+796,68,Outro,Divorciado,3725.29,Rio de Janeiro,PR,2,262.55,Utilidades,29,Sim,Sim,77,Boleto,App
+797,22,Outro,Solteiro,6018.13,Rio de Janeiro,RJ,4,154.39,Alimentos,4,Sim,Sim,86,Dinheiro,Site
+798,64,M,Casado,3629.14,Belo Horizonte,SP,1,481.76,Cosméticos,33,Não,Sim,76,Pix,App
+799,42,M,Casado,1136.96,Belo Horizonte,RJ,3,109.27,Roupas,17,Não,Não,75,Pix,Site
+800,19,Outro,Solteiro,5194.55,Belo Horizonte,MG,5,120.19,Eletrônicos,28,Sim,Não,17,Débito,Loja Física
+801,27,M,Solteiro,2652.75,Curitiba,RJ,4,381.42,Utilidades,50,Sim,Não,20,Dinheiro,App
+802,47,M,Solteiro,3533.27,Curitiba,RJ,1,321.33,Alimentos,26,Sim,Sim,0,Boleto,Loja Física
+803,67,M,Casado,6475.14,Curitiba,RJ,2,147.4,Cosméticos,8,Sim,Sim,37,Dinheiro,Site
+804,62,F,Divorciado,1678.26,São Paulo,BA,2,310.73,Cosméticos,34,Sim,Não,40,Dinheiro,Loja Física
+805,22,Outro,Casado,4329.49,Rio de Janeiro,MG,7,396.79,Roupas,59,Não,Sim,41,Débito,Loja Física
+806,50,Outro,Divorciado,3918.96,Salvador,RJ,2,246.97,Utilidades,18,Sim,Não,8,Pix,Site
+807,18,F,Casado,5401.85,São Paulo,RJ,3,509.88,Roupas,31,Não,Sim,22,Dinheiro,Site
+808,35,Outro,Casado,5710.31,Rio de Janeiro,RJ,3,77.59,Eletrônicos,59,Não,Sim,77,Dinheiro,Loja Física
+809,49,M,Solteiro,4527.68,Rio de Janeiro,SP,6,319.38,Eletrônicos,27,Sim,Sim,10,Dinheiro,Loja Física
+810,64,Outro,Divorciado,3279.25,Belo Horizonte,BA,2,366.65,Eletrônicos,16,Não,Sim,70,Crédito,Loja Física
+811,66,M,Casado,4946.75,Belo Horizonte,SP,2,339.13,Cosméticos,58,Sim,Sim,30,Dinheiro,App
+812,28,F,Casado,6671.31,São Paulo,BA,2,229.56,Utilidades,10,Sim,Sim,87,Dinheiro,App
+813,38,M,Solteiro,3945.42,Belo Horizonte,RJ,1,220.96,Roupas,40,Sim,Sim,25,Boleto,Site
+814,43,Outro,Solteiro,3465.49,Rio de Janeiro,MG,3,294.41,Roupas,12,Sim,Sim,29,Crédito,Loja Física
+815,42,Outro,Divorciado,4776.34,Belo Horizonte,PR,5,331.58,Eletrônicos,22,Não,Sim,33,Dinheiro,App
+816,39,Outro,Casado,4077.45,Curitiba,PR,4,310.25,Utilidades,16,Não,Não,45,Dinheiro,Loja Física
+817,44,F,Divorciado,1324.58,Belo Horizonte,RJ,4,354.01,Utilidades,12,Sim,Sim,68,Débito,Loja Física
+818,66,F,Casado,4478.66,Rio de Janeiro,SP,3,148.11,Alimentos,11,Não,Não,4,Débito,Loja Física
+819,30,Outro,Divorciado,1306.48,São Paulo,MG,2,227.22,Utilidades,20,Sim,Não,60,Crédito,App
+820,50,M,Solteiro,4748.96,Salvador,BA,4,156.0,Utilidades,51,Não,Não,82,Boleto,Loja Física
+821,51,F,Casado,2405.71,Belo Horizonte,RJ,3,211.39,Roupas,1,Sim,Não,37,Crédito,Loja Física
+822,58,Outro,Divorciado,4073.75,Rio de Janeiro,MG,3,351.52,Utilidades,27,Sim,Sim,27,Crédito,Site
+823,52,Outro,Solteiro,4781.19,Salvador,MG,1,260.8,Utilidades,3,Sim,Não,25,Débito,Loja Física
+824,18,F,Solteiro,8907.81,Salvador,BA,4,510.69,Roupas,12,Sim,Não,60,Débito,Site
+825,38,F,Divorciado,5485.5,Curitiba,MG,3,269.34,Utilidades,30,Sim,Não,22,Boleto,Site
+826,65,F,Casado,6729.6,Salvador,SP,1,255.97,Roupas,9,Não,Sim,45,Dinheiro,Site
+827,23,M,Casado,7743.5,Rio de Janeiro,SP,1,260.62,Alimentos,53,Sim,Sim,29,Boleto,Loja Física
+828,45,M,Solteiro,4978.51,Rio de Janeiro,SP,1,186.22,Cosméticos,54,Não,Sim,66,Dinheiro,Loja Física
+829,34,Outro,Casado,4571.38,Belo Horizonte,MG,2,244.22,Roupas,37,Não,Não,32,Pix,App
+830,22,F,Casado,1866.56,Belo Horizonte,SP,3,362.78,Roupas,1,Sim,Não,2,Débito,App
+831,48,M,Casado,3766.74,Belo Horizonte,BA,3,261.4,Utilidades,42,Sim,Sim,68,Pix,Loja Física
+832,22,F,Solteiro,2553.82,Salvador,MG,3,170.65,Roupas,49,Não,Não,82,Pix,Loja Física
+833,55,Outro,Divorciado,3197.88,Salvador,PR,1,157.49,Eletrônicos,4,Sim,Não,41,Débito,Loja Física
+834,20,M,Casado,7741.33,Curitiba,MG,3,204.98,Eletrônicos,15,Sim,Sim,61,Pix,Site
+835,40,M,Solteiro,4229.24,Belo Horizonte,BA,2,257.39,Alimentos,51,Sim,Não,57,Crédito,App
+836,54,M,Solteiro,2248.2,São Paulo,PR,1,369.36,Roupas,27,Sim,Não,56,Dinheiro,Loja Física
+837,54,Outro,Divorciado,6749.07,Curitiba,MG,1,115.95,Utilidades,8,Não,Sim,0,Boleto,Site
+838,27,F,Casado,5910.55,São Paulo,SP,1,218.02,Utilidades,23,Sim,Não,72,Débito,App
+839,27,M,Casado,6015.31,Salvador,RJ,4,264.43,Cosméticos,15,Sim,Sim,59,Crédito,App
+840,36,Outro,Divorciado,1000.0,Curitiba,RJ,3,66.63,Alimentos,27,Sim,Não,68,Boleto,Loja Física
+841,34,F,Divorciado,7897.34,Curitiba,SP,2,166.64,Utilidades,31,Não,Não,58,Boleto,Loja Física
+842,38,Outro,Solteiro,2882.97,Rio de Janeiro,RJ,2,182.01,Cosméticos,39,Não,Não,45,Boleto,Loja Física
+843,31,F,Solteiro,5555.91,Salvador,RJ,3,170.4,Utilidades,47,Sim,Sim,33,Pix,App
+844,26,Outro,Divorciado,9047.6,Salvador,SP,2,269.19,Cosméticos,8,Sim,Sim,24,Pix,App
+845,63,F,Casado,8310.67,Curitiba,SP,4,233.94,Eletrônicos,30,Sim,Sim,41,Pix,Site
+846,18,M,Solteiro,2044.88,Salvador,MG,2,194.47,Eletrônicos,58,Sim,Não,28,Pix,Loja Física
+847,68,F,Solteiro,1110.97,Curitiba,MG,3,292.8,Utilidades,55,Sim,Sim,24,Crédito,Loja Física
+848,62,Outro,Casado,6860.69,Rio de Janeiro,SP,5,422.31,Alimentos,42,Não,Não,53,Pix,Loja Física
+849,30,Outro,Solteiro,4284.11,Curitiba,BA,5,413.93,Roupas,18,Sim,Sim,72,Débito,Site
+850,21,F,Casado,2998.24,Salvador,RJ,2,57.72,Alimentos,4,Sim,Sim,66,Boleto,Loja Física
+851,18,M,Casado,5242.44,Salvador,MG,1,307.71,Alimentos,47,Não,Sim,14,Crédito,Loja Física
+852,66,M,Casado,3674.24,Curitiba,RJ,1,232.2,Roupas,43,Sim,Não,3,Pix,App
+853,57,F,Divorciado,5402.65,Curitiba,PR,4,265.52,Eletrônicos,22,Sim,Não,37,Boleto,Loja Física
+854,49,F,Divorciado,4133.96,Curitiba,SP,1,210.17,Eletrônicos,3,Sim,Sim,19,Crédito,Site
+855,51,Outro,Divorciado,5444.78,Belo Horizonte,BA,4,261.76,Roupas,15,Sim,Sim,22,Boleto,Loja Física
+856,45,M,Casado,2210.93,Salvador,PR,1,265.14,Cosméticos,35,Não,Não,36,Crédito,App
+857,48,F,Casado,6848.92,Salvador,PR,5,192.1,Alimentos,47,Sim,Sim,61,Dinheiro,Site
+858,25,M,Divorciado,5395.25,Belo Horizonte,PR,1,160.36,Utilidades,38,Sim,Não,7,Crédito,App
+859,56,F,Solteiro,5292.59,Curitiba,SP,1,205.13,Eletrônicos,33,Sim,Não,36,Pix,Site
+860,43,F,Casado,1764.66,Rio de Janeiro,MG,2,273.43,Utilidades,14,Não,Não,44,Boleto,App
+861,51,M,Solteiro,7399.26,Curitiba,SP,4,309.9,Roupas,48,Sim,Não,32,Boleto,App
+862,20,F,Solteiro,3972.57,Curitiba,MG,0,335.33,Utilidades,1,Sim,Não,6,Boleto,Site
+863,67,F,Casado,5456.1,Belo Horizonte,PR,4,200.58,Utilidades,53,Não,Não,21,Débito,App
+864,29,Outro,Casado,3354.35,Salvador,PR,0,278.38,Alimentos,49,Sim,Não,4,Débito,Loja Física
+865,18,F,Solteiro,4521.78,Curitiba,BA,1,346.25,Roupas,26,Não,Não,14,Pix,Loja Física
+866,61,F,Solteiro,4594.25,Salvador,MG,3,366.56,Utilidades,8,Sim,Sim,20,Dinheiro,Loja Física
+867,22,F,Divorciado,1000.0,São Paulo,PR,1,244.12,Eletrônicos,50,Sim,Sim,88,Débito,Site
+868,47,Outro,Divorciado,5164.9,Salvador,RJ,4,227.91,Roupas,16,Sim,Sim,16,Crédito,App
+869,47,M,Casado,7930.68,Rio de Janeiro,BA,3,269.11,Eletrônicos,38,Sim,Não,55,Pix,App
+870,34,Outro,Divorciado,5079.56,Rio de Janeiro,SP,2,135.03,Cosméticos,10,Sim,Não,49,Dinheiro,Loja Física
+871,65,Outro,Divorciado,2084.58,Curitiba,BA,4,230.64,Utilidades,42,Sim,Sim,6,Crédito,Site
+872,64,M,Divorciado,5299.92,Salvador,RJ,7,324.46,Roupas,37,Sim,Sim,49,Boleto,Loja Física
+873,40,Outro,Divorciado,6118.96,Curitiba,MG,4,314.19,Eletrônicos,26,Sim,Sim,59,Débito,Site
+874,32,M,Solteiro,5024.93,Belo Horizonte,SP,4,222.97,Utilidades,28,Sim,Não,82,Crédito,Loja Física
+875,54,Outro,Casado,3851.75,Rio de Janeiro,SP,3,271.77,Alimentos,12,Não,Não,6,Dinheiro,App
+876,38,M,Divorciado,3515.7,Curitiba,MG,3,167.53,Eletrônicos,20,Sim,Não,39,Pix,Loja Física
+877,31,F,Solteiro,3507.38,Belo Horizonte,BA,2,320.35,Eletrônicos,49,Não,Sim,44,Crédito,Loja Física
+878,19,Outro,Solteiro,5395.55,Curitiba,PR,2,242.22,Cosméticos,14,Sim,Não,58,Pix,App
+879,28,Outro,Solteiro,1185.75,Salvador,BA,3,222.4,Alimentos,46,Sim,Sim,87,Boleto,Site
+880,68,Outro,Divorciado,3256.25,Salvador,RJ,3,213.83,Cosméticos,35,Sim,Não,74,Dinheiro,Loja Física
+881,56,Outro,Divorciado,7191.22,Salvador,PR,2,243.71,Alimentos,29,Não,Sim,54,Dinheiro,Site
+882,55,F,Casado,7268.39,Salvador,BA,3,205.21,Eletrônicos,12,Não,Sim,63,Débito,Loja Física
+883,51,Outro,Divorciado,1043.71,São Paulo,MG,3,315.81,Cosméticos,52,Sim,Sim,64,Dinheiro,App
+884,55,F,Divorciado,1737.17,Belo Horizonte,RJ,3,210.47,Utilidades,18,Não,Sim,53,Crédito,Site
+885,67,F,Solteiro,3458.76,Belo Horizonte,RJ,4,409.3,Alimentos,44,Sim,Não,39,Crédito,Loja Física
+886,51,F,Casado,5785.18,Salvador,RJ,3,396.52,Eletrônicos,2,Sim,Sim,52,Crédito,Site
+887,35,F,Divorciado,1000.0,São Paulo,PR,8,160.85,Roupas,2,Não,Sim,43,Boleto,Loja Física
+888,47,M,Divorciado,3890.38,Salvador,SP,3,256.97,Alimentos,59,Não,Não,62,Dinheiro,App
+889,32,M,Solteiro,3051.64,São Paulo,PR,2,184.93,Alimentos,17,Não,Não,1,Dinheiro,App
+890,44,Outro,Solteiro,6651.93,Salvador,BA,4,217.34,Utilidades,10,Sim,Sim,78,Crédito,App
+891,68,M,Divorciado,1000.0,Rio de Janeiro,SP,0,450.24,Alimentos,18,Sim,Não,20,Débito,Loja Física
+892,51,M,Casado,4185.08,Rio de Janeiro,BA,4,219.24,Alimentos,22,Sim,Não,87,Débito,Loja Física
+893,69,Outro,Casado,3212.78,Curitiba,SP,2,286.02,Utilidades,19,Sim,Sim,49,Dinheiro,Loja Física
+894,55,Outro,Solteiro,6939.6,Salvador,PR,1,304.13,Utilidades,58,Não,Sim,80,Dinheiro,Site
+895,50,Outro,Solteiro,5195.31,Belo Horizonte,RJ,2,149.94,Cosméticos,53,Sim,Sim,51,Pix,Site
+896,41,M,Divorciado,2828.37,Curitiba,MG,1,164.49,Eletrônicos,1,Sim,Não,8,Dinheiro,Site
+897,32,M,Solteiro,5706.77,Rio de Janeiro,RJ,1,129.4,Eletrônicos,24,Sim,Sim,19,Crédito,App
+898,47,Outro,Divorciado,3222.34,Salvador,PR,4,161.4,Cosméticos,36,Sim,Sim,82,Boleto,Loja Física
+899,59,F,Casado,5998.66,Curitiba,SP,3,30.0,Eletrônicos,25,Sim,Não,17,Dinheiro,Loja Física
+900,68,Outro,Casado,3525.85,Salvador,RJ,2,304.46,Alimentos,36,Sim,Não,83,Dinheiro,Loja Física
+901,34,F,Divorciado,6109.33,Rio de Janeiro,PR,3,455.42,Cosméticos,31,Não,Sim,29,Crédito,Loja Física
+902,22,F,Solteiro,4872.16,Curitiba,BA,3,264.78,Cosméticos,31,Sim,Não,64,Pix,Loja Física
+903,46,Outro,Casado,10520.98,Rio de Janeiro,MG,3,108.37,Eletrônicos,2,Não,Sim,23,Dinheiro,Site
+904,21,Outro,Solteiro,3894.21,São Paulo,RJ,5,185.72,Roupas,19,Sim,Sim,87,Débito,Loja Física
+905,27,Outro,Casado,4765.72,Rio de Janeiro,SP,4,204.11,Eletrônicos,53,Sim,Não,46,Débito,Loja Física
+906,34,M,Divorciado,3041.15,Salvador,BA,1,148.24,Roupas,12,Sim,Não,82,Débito,App
+907,27,F,Divorciado,4005.37,Belo Horizonte,PR,2,336.02,Cosméticos,10,Não,Sim,89,Boleto,Loja Física
+908,34,M,Divorciado,1000.0,Rio de Janeiro,MG,3,331.03,Roupas,31,Sim,Não,43,Boleto,Site
+909,37,M,Casado,4931.17,Belo Horizonte,SP,3,134.45,Alimentos,45,Sim,Não,28,Dinheiro,Loja Física
+910,41,Outro,Solteiro,6685.75,São Paulo,PR,5,322.51,Utilidades,22,Sim,Sim,76,Dinheiro,Site
+911,22,M,Solteiro,4793.26,Curitiba,PR,2,402.68,Roupas,23,Sim,Não,67,Dinheiro,App
+912,51,Outro,Solteiro,1372.28,Curitiba,RJ,3,440.26,Utilidades,52,Não,Sim,16,Boleto,Loja Física
+913,23,F,Casado,2396.43,Belo Horizonte,RJ,4,536.52,Alimentos,23,Não,Não,4,Dinheiro,Site
+914,19,Outro,Casado,1000.0,Curitiba,SP,2,159.8,Utilidades,15,Sim,Não,87,Crédito,App
+915,30,M,Casado,5957.85,Rio de Janeiro,PR,2,532.42,Alimentos,26,Sim,Sim,80,Pix,Site
+916,60,M,Casado,1986.97,Belo Horizonte,RJ,1,214.58,Utilidades,3,Não,Sim,49,Débito,Loja Física
+917,60,Outro,Casado,3942.58,Salvador,MG,3,190.75,Utilidades,23,Sim,Sim,39,Débito,Loja Física
+918,65,Outro,Solteiro,3692.52,Rio de Janeiro,MG,4,282.71,Eletrônicos,20,Sim,Sim,45,Crédito,Site
+919,28,M,Casado,6975.45,Rio de Janeiro,PR,6,191.79,Roupas,45,Sim,Sim,50,Dinheiro,App
+920,68,F,Casado,4170.56,Rio de Janeiro,RJ,2,289.9,Utilidades,40,Sim,Sim,10,Boleto,Loja Física
+921,64,F,Solteiro,5617.79,Salvador,SP,5,117.99,Cosméticos,57,Sim,Não,11,Dinheiro,Loja Física
+922,40,Outro,Casado,5092.93,São Paulo,SP,4,226.12,Eletrônicos,39,Não,Sim,12,Dinheiro,Loja Física
+923,33,F,Solteiro,6718.82,Curitiba,SP,7,378.56,Roupas,56,Sim,Não,63,Débito,Loja Física
+924,48,M,Solteiro,3521.75,Belo Horizonte,MG,4,244.29,Eletrônicos,8,Sim,Não,7,Débito,Loja Física
+925,28,Outro,Divorciado,7739.23,São Paulo,RJ,3,264.16,Roupas,18,Não,Sim,64,Boleto,Loja Física
+926,33,M,Divorciado,1000.0,Belo Horizonte,RJ,2,297.53,Alimentos,41,Sim,Não,8,Débito,Loja Física
+927,25,M,Divorciado,5714.95,Curitiba,MG,5,367.07,Utilidades,6,Sim,Sim,1,Dinheiro,Loja Física
+928,21,F,Divorciado,2266.76,Salvador,SP,6,84.48,Cosméticos,27,Sim,Sim,77,Crédito,App
+929,57,Outro,Casado,3014.5,Rio de Janeiro,SP,2,308.45,Eletrônicos,36,Sim,Não,12,Boleto,Loja Física
+930,21,Outro,Divorciado,5138.83,Rio de Janeiro,PR,2,223.19,Eletrônicos,15,Não,Sim,1,Crédito,Loja Física
+931,42,F,Solteiro,5122.8,Salvador,BA,2,266.66,Eletrônicos,37,Não,Não,67,Dinheiro,Loja Física
+932,20,M,Casado,5212.86,São Paulo,RJ,1,356.0,Eletrônicos,58,Sim,Não,75,Boleto,App
+933,49,M,Divorciado,1227.68,São Paulo,RJ,4,130.58,Utilidades,5,Não,Não,47,Crédito,App
+934,20,M,Solteiro,6898.06,Belo Horizonte,RJ,5,148.74,Roupas,39,Sim,Não,73,Boleto,App
+935,44,M,Casado,2198.71,Salvador,BA,5,56.46,Utilidades,9,Não,Não,2,Dinheiro,Loja Física
+936,46,Outro,Casado,2465.43,São Paulo,PR,5,195.08,Alimentos,7,Sim,Sim,67,Boleto,App
+937,49,Outro,Divorciado,5275.79,Salvador,BA,3,383.04,Utilidades,41,Sim,Sim,5,Dinheiro,Site
+938,67,F,Casado,3426.56,Curitiba,SP,5,237.94,Utilidades,20,Sim,Não,86,Boleto,Loja Física
+939,68,F,Solteiro,4616.52,Rio de Janeiro,SP,3,115.99,Alimentos,10,Sim,Sim,4,Boleto,Site
+940,36,Outro,Casado,1000.0,Rio de Janeiro,RJ,0,201.43,Utilidades,26,Sim,Sim,2,Débito,App
+941,38,Outro,Solteiro,4568.65,Rio de Janeiro,MG,2,101.21,Roupas,4,Sim,Sim,9,Dinheiro,App
+942,22,M,Casado,4435.66,Salvador,RJ,2,137.48,Cosméticos,38,Não,Não,42,Pix,App
+943,35,M,Divorciado,2980.28,Salvador,MG,3,288.88,Alimentos,24,Sim,Sim,18,Boleto,App
+944,45,F,Solteiro,1000.0,Belo Horizonte,BA,3,132.61,Eletrônicos,14,Não,Não,13,Crédito,Loja Física
+945,59,Outro,Casado,3574.38,Rio de Janeiro,SP,4,361.26,Roupas,41,Sim,Sim,20,Débito,Site
+946,39,F,Casado,3925.25,Belo Horizonte,MG,4,242.89,Cosméticos,1,Sim,Sim,42,Débito,Loja Física
+947,38,Outro,Casado,3265.54,Rio de Janeiro,BA,3,258.56,Roupas,17,Não,Sim,27,Boleto,App
+948,23,M,Solteiro,1000.0,Belo Horizonte,SP,2,222.16,Roupas,45,Sim,Sim,20,Pix,Loja Física
+949,18,F,Solteiro,7189.47,Belo Horizonte,MG,2,327.28,Eletrônicos,24,Não,Não,35,Débito,App
+950,22,F,Solteiro,2722.28,Curitiba,RJ,4,328.32,Cosméticos,27,Não,Sim,23,Dinheiro,Loja Física
+951,58,Outro,Divorciado,3555.59,Belo Horizonte,RJ,3,283.51,Roupas,7,Sim,Sim,53,Boleto,Loja Física
+952,29,M,Divorciado,1000.0,Salvador,RJ,0,306.48,Eletrônicos,9,Sim,Não,37,Boleto,Loja Física
+953,43,F,Solteiro,7189.71,Belo Horizonte,BA,4,228.79,Alimentos,43,Sim,Sim,16,Pix,Loja Física
+954,63,M,Casado,3066.9,Rio de Janeiro,RJ,3,304.22,Eletrônicos,35,Sim,Sim,21,Dinheiro,App
+955,51,F,Divorciado,4196.93,Belo Horizonte,PR,2,216.21,Utilidades,58,Sim,Sim,82,Dinheiro,Loja Física
+956,66,M,Solteiro,6241.47,São Paulo,SP,1,250.22,Eletrônicos,12,Não,Não,44,Pix,Site
+957,31,Outro,Casado,2647.39,Rio de Janeiro,BA,3,222.54,Eletrônicos,21,Sim,Não,73,Crédito,Loja Física
+958,43,F,Divorciado,5926.49,São Paulo,RJ,3,204.28,Eletrônicos,3,Sim,Sim,60,Dinheiro,Loja Física
+959,62,F,Casado,1000.0,Rio de Janeiro,SP,2,181.09,Roupas,15,Sim,Sim,10,Crédito,Loja Física
+960,44,M,Casado,5101.97,Salvador,MG,1,296.77,Cosméticos,21,Não,Sim,60,Crédito,Loja Física
+961,26,M,Casado,7144.48,Salvador,RJ,3,381.06,Eletrônicos,10,Sim,Sim,37,Boleto,App
+962,43,F,Casado,2839.17,Salvador,SP,5,367.11,Eletrônicos,33,Sim,Não,65,Boleto,Site
+963,64,Outro,Divorciado,6237.76,São Paulo,PR,4,124.34,Utilidades,46,Sim,Não,32,Débito,Loja Física
+964,39,M,Divorciado,7667.85,Curitiba,MG,3,378.92,Utilidades,59,Não,Sim,42,Boleto,Site
+965,64,M,Divorciado,3490.32,Rio de Janeiro,PR,4,218.18,Alimentos,52,Não,Não,30,Dinheiro,Loja Física
+966,47,M,Solteiro,3324.94,Salvador,SP,6,310.07,Alimentos,6,Sim,Sim,34,Dinheiro,Loja Física
+967,60,F,Divorciado,2203.41,Rio de Janeiro,PR,4,159.38,Utilidades,2,Não,Sim,36,Crédito,Site
+968,65,F,Casado,2980.54,São Paulo,SP,2,264.2,Cosméticos,29,Sim,Sim,46,Dinheiro,Loja Física
+969,34,F,Divorciado,2369.28,Curitiba,SP,2,281.37,Alimentos,55,Não,Sim,22,Boleto,Site
+970,43,F,Casado,2201.78,São Paulo,PR,2,101.54,Cosméticos,40,Sim,Não,35,Boleto,Site
+971,53,Outro,Solteiro,6397.67,Rio de Janeiro,SP,2,310.83,Utilidades,33,Sim,Sim,39,Boleto,App
+972,18,Outro,Casado,2420.15,Curitiba,RJ,2,384.59,Alimentos,4,Sim,Sim,89,Pix,App
+973,25,F,Casado,4517.04,Curitiba,SP,2,232.54,Eletrônicos,59,Sim,Não,88,Dinheiro,Loja Física
+974,66,Outro,Casado,4076.47,São Paulo,BA,2,386.02,Utilidades,4,Não,Não,80,Débito,Loja Física
+975,52,M,Solteiro,6996.19,Salvador,SP,1,231.03,Alimentos,29,Sim,Não,14,Dinheiro,Loja Física
+976,69,M,Divorciado,2993.69,Rio de Janeiro,BA,2,334.96,Cosméticos,37,Não,Não,36,Dinheiro,Loja Física
+977,32,M,Divorciado,4762.3,Belo Horizonte,SP,1,30.0,Cosméticos,20,Sim,Sim,3,Pix,App
+978,64,F,Solteiro,5582.14,Belo Horizonte,SP,4,491.88,Alimentos,41,Sim,Não,21,Dinheiro,App
+979,39,M,Casado,6979.5,São Paulo,PR,1,399.55,Cosméticos,23,Sim,Não,80,Crédito,Site
+980,31,Outro,Divorciado,2964.49,Rio de Janeiro,RJ,4,221.54,Alimentos,45,Sim,Não,21,Boleto,Site
+981,43,F,Solteiro,2764.22,Rio de Janeiro,RJ,2,52.79,Alimentos,18,Não,Não,80,Boleto,Loja Física
+982,45,Outro,Divorciado,1876.44,São Paulo,MG,1,278.8,Cosméticos,49,Sim,Sim,77,Pix,Site
+983,40,M,Solteiro,8472.6,Rio de Janeiro,PR,4,105.61,Roupas,25,Sim,Não,77,Boleto,App
+984,31,M,Casado,6768.94,Salvador,PR,4,294.49,Eletrônicos,1,Sim,Sim,16,Crédito,Site
+985,41,M,Divorciado,3915.6,São Paulo,RJ,4,291.16,Utilidades,54,Sim,Sim,71,Pix,Loja Física
+986,19,F,Solteiro,7862.88,Salvador,PR,2,155.86,Eletrônicos,15,Não,Sim,89,Débito,Site
+987,62,Outro,Divorciado,3796.27,Rio de Janeiro,RJ,2,362.1,Utilidades,34,Sim,Não,85,Boleto,Loja Física
+988,43,F,Divorciado,5448.82,São Paulo,PR,2,330.56,Utilidades,48,Não,Sim,79,Dinheiro,Site
+989,31,F,Divorciado,4020.34,Rio de Janeiro,SP,2,347.58,Eletrônicos,20,Sim,Não,79,Crédito,Site
+990,68,M,Divorciado,4795.61,São Paulo,RJ,2,250.89,Alimentos,54,Sim,Sim,37,Crédito,Loja Física
+991,24,F,Solteiro,4583.52,Rio de Janeiro,RJ,5,108.45,Cosméticos,37,Não,Não,23,Boleto,App
+992,20,F,Casado,3150.03,Salvador,BA,1,347.79,Roupas,27,Sim,Sim,5,Débito,App
+993,64,M,Solteiro,6185.0,Salvador,PR,1,222.96,Roupas,22,Sim,Não,67,Dinheiro,Loja Física
+994,40,F,Solteiro,5431.9,Rio de Janeiro,PR,5,111.02,Roupas,51,Sim,Não,81,Débito,App
+995,63,M,Solteiro,6055.39,São Paulo,RJ,3,385.2,Eletrônicos,5,Sim,Sim,5,Débito,Site
+996,60,M,Casado,4640.45,Belo Horizonte,SP,2,459.94,Eletrônicos,34,Não,Sim,25,Boleto,App
+997,64,M,Divorciado,2186.86,Salvador,SP,4,245.88,Alimentos,39,Sim,Não,40,Dinheiro,App
+998,62,M,Divorciado,7418.77,Salvador,SP,2,465.91,Roupas,3,Não,Não,74,Boleto,Site
+999,35,F,Divorciado,3474.89,Belo Horizonte,PR,3,259.13,Alimentos,17,Sim,Não,37,Boleto,App
+1000,55,M,Casado,4728.13,Rio de Janeiro,BA,3,211.95,Roupas,24,Sim,Sim,79,Crédito,Loja Física

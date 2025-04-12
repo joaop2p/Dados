@@ -1,5 +1,7 @@
 from flet import Page
 
+from ..UI.cluster import CategoriaClientes
+
 from ..UI.home import Home
 from ..utils.page import MainPage
 
@@ -17,7 +19,7 @@ class MyApp:
 
     def run(self, page):
         self.config(page)
-        new_page = Home()
+        new_page = CategoriaClientes()
         self.main_page.new_page(new_page)
         self.page.update()
         
